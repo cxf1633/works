@@ -1,0 +1,98 @@
+$trigger_id,name
+850000,Oil Drum
+850001,Deathmatch - Box
+850002,Neutral Mine
+850003,Flamethrower
+850004,Deathmatch Generator
+850006,Flashbomb - Small
+850007,Medkit - Small
+850008,Grenade Resupply Crate - Small
+850009,Burning Bomb - Small
+850010,Medkit - Large
+850012,Cactus
+850013,Nutritious Canned Food
+850014,Garbage Can
+850015,Loading Truck
+850016,Freeze Effect
+850017,Poison Gas Trap
+850018,Suction Cup
+850020,C4 Explosive
+850021,Shield Buff Box
+850022,Acceleration Buff Box
+850024,Small EXP
+850025,Medium EXP
+850026,Large EXP
+850027,Destructible Mine Box
+850028,Destructible Medkit
+850029,Non-Deathmatch - Box
+850030,Non-Deathmatch Generator
+850031,Tiny EXP
+850032,Team Battle Destructible Medkit
+851001,Bunker Test
+860001,Mine Trap
+860002,Mine Trap
+860003,Mine Trap
+860004,Mine Trap
+860101,Gaia Shield Generator
+860102,Gaia Shield Generator
+860103,Gaia Shield Generator
+860104,Gaia Shield Generator
+860201,Theodor Defense Bunker
+860202,Theodor Defense Bunker
+860203,Theodor Defense Bunker
+860204,Theodor Defense Bunker
+860301,Charge Accelerator
+860302,Charge Accelerator
+860303,Charge Accelerator
+860304,Charge Accelerator
+860401,Firewall
+860402,Firewall
+860403,Firewall
+860404,Firewall
+860501,Group Shield
+860502,Group Shield
+860503,Group Shield
+860504,Group Shield
+860601,Freeze Trap
+860602,Freeze Trap
+860603,Freeze Trap
+860604,Freeze Trap
+861101,Quicksand Trap
+861102,Quicksand Trap
+861103,Quicksand Trap
+861104,Quicksand Trap
+880000,Mine Field
+880001,Bomb Area
+880002,Resources
+880003,Fixed Resource Area
+880004,Slowdown Area
+880005,Fixed Resource Area - Aircraft Carrier
+880010,Tent - Green
+880011,Tent - White
+880012,Tent - Yellow
+880013,Underbrush - Green
+881001,Desert Bunker - Large
+881002,Desert Bunker - Small
+881011,Base Bunker - Large
+881012,Base Bunker - Small
+881021,Aircraft Carrier Bunker - Large
+881022,Aircraft Carrier Bunker - Small
+881031,Snowland Bunker - Large
+881032,Snowland Bunker - Small
+881041,Ruins Bunker - Large
+881042,Ruins Bunker - Small
+890001,Trigger Area
+890002,Fixed Training Target
+890003,Moving Training Target 1
+890004,Light Curtain
+890005,Signpost
+890006,Range Indicator
+890007,Grenade Range Indicator
+890008,Moving Training Target 2
+890009,Damage Range
+890010,Spawn Point
+890011,Gathering Point
+890012,Vehicle - Mech 01
+890101,Boss Normal Attack 1 Range
+890102,Boss Normal Attack 2 Range
+890103,Boss Skill Attack 1 Range

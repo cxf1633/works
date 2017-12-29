@@ -1,0 +1,28 @@
+$list_id,name,intro
+1,Team Battle,"1. The team battle leaderboard is ranked based on the team scores of every member of the team (Custom and Entertainment modes are not counted). 
+2. If two teams have the same score, the rank is based on the number of MVP acquired.
+3. Only players who participated in more than 50 team battles are qualified to be ranked in this leaderboard."
+2,Level,"1. The Level Leaderboards are based on the level of each player. 
+2. If two players are at the same level, the one who acquired more exp will get a higher rank.
+3. If two players are at the same level and EXP amount, the time it took them to reach that level will serve as a tiebreaker."
+3,Deathmatch\nChampion,"1. The Deathmatch leaderboards are based on the rate of each player getting the champion title from Deathmatch, Team Deathmatch and Newbie Area.
+2. If players gets the same rate, the tiebreaker is the number of kills each player has in these modes.
+3. Only the players who acquired champion title at least 50 times are qualified to be ranked in this leaderboard."
+4,Deathmatch\nMaster,"1. The Deathmatch Master leaderboard ranks are determined by hero operating level during the Deathmatch combats.
+2. Hero Score = champion times with the hero/deathmatch times*10,000
+3. Only the players who got at least 20 times of champions with specific heroes are qualified to be ranked in this leaderboard."
+5,Battle Master,"1. The Battle Master leaderboard ranks are determined by hero operating level during the battles.
+2. Hero Score = winning rate of specific hero *10,000 plus winning times.
+3. Only the players who got at least 20 wins with specific heroes are qualified to be ranked in this leaderboard."
+6,Qualifying\nMatch,"1. This Leaderboard is ranked by the Qualifying Match ranking of each player. 
+2. The top 50 players of Legend rank will be entitled as Eternal Legend.
+3. The Eternal Legend list refreshes everyday at 5:00 AM.
+4. Players who haven't joint Qualifying Match combat will not be ranked in this leaderboard."
+7,Eternal Legend,Top 10 players of Legend rank.
+11,Last Week's Legion Activity Rankings,Last Week's Legion Activity Rankings
+12,Weekly Legion Activity Rankings,Weekly Legion Activity Rankings
+13,Legion Activity Rankings (Season),Seasonal Legion Activity Rankings
+14,Seasonal Legion Battle Score Ranking,Seasonal Legion Battle Score Ranking
+15,Weekly Legion Battle Score Ranking,Weekly Legion Battle Score Ranking
+16,Seasonal Corps Battle Individual Score Ranking,Seasonal Legion Battle of Individual Score Ranking
+17,Weekly Corps Battle Individual Score Ranking,Weekly Legion Battle of Individual Score Ranking

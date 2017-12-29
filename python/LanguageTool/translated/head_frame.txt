@@ -1,0 +1,11 @@
+$id,name,condition_word
+213000,Basic,Basic Frame
+213101,Primary,Unlocks at lv.20
+213102,Intermediate,Unlocks at lv.40
+213103,Advanced,Unlocks at lv.60
+213201,Legendary,Rank up to Legend
+213301,Electric Queen,Get the skin of Electric Queen (permanent)
+213401,First Recharge,Single top up at least 60 tickets
+213501,Legion Contribution,Available in Legion Store
+213601,Primary Achievement,Complete 50 achievements
+213602,Advanced Achievement,Complete 100 achievements

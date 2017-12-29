@@ -1,0 +1,19 @@
+$id,fast_command
+1,Frontal Attack!
+2,Flank!
+3,Cover Me!
+4,Fall Back!
+5,Spread Out!
+6,Follow Me!
+7,Attack!
+8,Defend!
+9,Cover Me!
+10,Fall Back!
+11,Rally in Zone A
+12,Rally in Zone B
+13,Attack!
+14,Defend!
+15,Cover Me!
+16,Fall Back!
+17,Control Point!
+18,Rally!

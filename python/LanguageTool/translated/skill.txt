@@ -1,0 +1,312 @@
+$skill_id,$lv,name,intro,intro2
+500000,1,近战,,
+500001,1,Bullet Spray,"Gaia wildly swings his weapon, spraying a large area with bullets. While shooting, the direction can be controlled.","[DD9B0F] Sprays bullets in a cone, dealing 40 damage. [-]"
+500001,2,Bullet Spray,"Gaia wildly swings his weapon, spraying a large area with bullets. While shooting, the direction can be controlled.","[DD9B0F] Sprays bullets in a cone, dealing 48 damage. [-]"
+500001,3,Bullet Spray,"Gaia wildly swings his weapon, spraying a large area with bullets. While shooting, the direction can be controlled.","[DD9B0F] Sprays bullets in a cone, dealing 56 damage. [-]"
+500001,4,Bullet Spray,"Gaia wildly swings his weapon, spraying a large area with bullets. While shooting, the direction can be controlled.","[DD9B0F] Spray bullets in a cone, dealing 64 damage. [-]"
+500002,1,Instant Shield,"Plant a device that generates shields, intermittently giving shields to targets in range",[DD9B0F]Give teammates in range a shield that can absorb up to 176 damage[-]
+500002,2,Instant Shield,"Plant a device that generates shields, intermittently giving shields to targets in range",[DD9B0F]Give teammates in range a shield that can absorb up to 210 damage[-]
+500002,3,Instant Shield,"Plant a device that generates shields, intermittently giving shields to targets in range",[DD9B0F]Give teammates in range a shield that can absorb up to 244 damage[-]
+500002,4,Instant Shield,"Plant a device that generates shields, intermittently giving shields to targets in range",[DD9B0F]Give teammates in range a shield that can absorb up to 278 damage[-]
+500003,1,Adrenaline,"When attacked by an enemy, there is a chance of increasing movement speed",[DD9B0F]Increase movement speed by 5% for 3 seconds[-]
+500003,2,Adrenaline,"When attacked by an enemy, there is a chance of increasing movement speed",[DD9B0F]Increase movement speed by 10% for 3 seconds[-]
+500003,3,Adrenaline,"When attacked by an enemy, there is a chance of increasing movement speed",[DD9B0F]Increase movement speed by 15% for 3 seconds[-]
+500003,4,Adrenaline,"When attacked by an enemy, there is a chance of increasing movement speed",[DD9B0F]Increase movement speed by 20% for 3 seconds[-]
+500004,1,Combat Roll,Rapidly roll forward,[DD9B0F]Roll directly ahead for 7 meters.[-]
+500004,2,Combat Roll,Rapidly roll forward,[DD9B0F]Roll directly ahead for 7 meters.[-]
+500004,3,Combat Roll,Rapidly roll forward,[DD9B0F]Roll directly ahead for 7 meters.[-]
+500004,4,Combat Roll,Rapidly roll forward,[DD9B0F]Roll directly ahead for 7 meters.[-]
+500005,1,Instant Shield,,
+500005,2,Instant Shield,,
+500005,3,Instant Shield,,
+500005,4,Instant Shield,,
+500101,1,Bioshield,"Theodor opens a protective shield, greatly increasing his defense. Using this skill again will explode the shield, dealing damage to nearby enemies and stunning them.",[DD9B0F]Increase Theodor's defense by 200. Explosion deals 165 AOE damage and stuns enemy for 1 second [-]
+500101,2,Bioshield,"Theodor opens a protective shield, greatly increasing his defense. Using this skill again will explode the shield, dealing damage to nearby enemies and stunning them.",[DD9B0F]Increase Theodor's defense by 240. Explosion deals 205 AOE damage and stuns enemy for 1 second [-]
+500101,3,Bioshield,"Theodor opens a protective shield, greatly increasing his defense. Using this skill again will explode the shield, dealing damage to nearby enemies and stunning them.",[DD9B0F]Increase Theodor's defense by 280. Explosion deals 245 AOE damage and stuns enemy for 1 second [-]
+500101,4,Bioshield,"Theodor opens a protective shield, greatly increasing his defense. Using this skill again will explode the shield, dealing damage to nearby enemies and stunning them.",[DD9B0F]Increase Theodor's defense by 320. Explosion deals 285 AOE damage and stuns enemy for 1 second [-]
+500102,1,Defensive Wall,"Theodor builds a protective wall in front of him, blocking enemy advance and attacks",[DD9B0F]Builds a wall in front of him. Can block enemy attacks.[-]
+500102,2,Defensive Wall,"Theodor builds a protective wall in front of him, blocking enemy advance and attacks",[DD9B0F]Builds a wall in front of him. Can block enemy attacks.[-]
+500102,3,Defensive Wall,"Theodor builds a protective wall in front of him, blocking enemy advance and attacks",[DD9B0F]Builds a wall in front of him. Can block enemy attacks.[-]
+500102,4,Defensive Wall,"Theodor builds a protective wall in front of him, blocking enemy advance and attacks",[DD9B0F]Builds a wall in front of him. Can block enemy attacks.[-]
+500103,1,Ensnare,"After taking a hit, reduces attacker's attack speed and movement speed.",[DD9B0F]Reduces enemy attack speed and movement speed by 6%[-]
+500103,2,Ensnare,"After taking a hit, reduces attacker's attack speed and movement speed.",[DD9B0F]Reduces enemy attack speed and movement speed by 7%[-]
+500103,3,Ensnare,"After taking a hit, reduces attacker's attack speed and movement speed.",[DD9B0F]Reduces enemy attack speed and movement speed by 8%[-]
+500103,4,Ensnare,"After taking a hit, reduces attacker's attack speed and movement speed.",[DD9B0F]Reduces enemy attack speed and movement speed by 9%[-]
+500104,1,Savage Charge,"Charge directly ahead,stunning enemies in his path","[DD9B0F]Move 8 meters directly ahead, and stunning enemies[-]"
+500104,2,Savage Charge,"Charge directly ahead,stunning enemies in his path","[DD9B0F]Move 8 meters directly ahead, and stunning enemies[-]"
+500104,3,Savage Charge,"Charge directly ahead,stunning enemies in his path","[DD9B0F]Move 8 meters directly ahead, and stunning enemies[-]"
+500104,4,Savage Charge,"Charge directly ahead,stunning enemies in his path","[DD9B0F]Move 8 meters directly ahead, and stunning enemies[-]"
+500105,1,Exploding Shield,,
+500105,2,Exploding Shield,,
+500105,3,Exploding Shield,,
+500105,4,Exploding Shield,,
+500201,1,Melody of Death,Enemies are hypnotized by Saisi's insane guitar riffs,[DD9B0F]Deals 260 damage to surrounding enemies and reduces their speed by 34%[-]
+500201,2,Melody of Death,Enemies are hypnotized by Saisi's insane guitar riffs,[DD9B0F]Deals 308 damage to surrounding enemies and reduces their speed by 36%[-]
+500201,3,Melody of Death,Enemies are hypnotized by Saisi's insane guitar riffs,[DD9B0F]Deals 356 damage to surrounding enemies and reduces their speed by 38%[-]
+500201,4,Melody of Death,Enemies are hypnotized by Saisi's insane guitar riffs,[DD9B0F]Deals 404 damage to surrounding enemies and reduces their speed by 40%[-]
+500202,1,Ambush,Saisi's greatest strengths are his quick attacks and ability to escape quickly,"Deal 258 damage to enemies in front of him, then leap away for 6 meters."
+500202,2,Ambush,Saisi's greatest strengths are his quick attacks and ability to escape quickly,"Deal 309 damage to enemies in front of him, then leap away for 6 meters."
+500202,3,Ambush,Saisi's greatest strengths are his quick attacks and ability to escape quickly,"Deal 360 damage to enemies in front of him, then leap away for 6 meters."
+500202,4,Ambush,Saisi's greatest strengths are his quick attacks and ability to escape quickly,"Deal 411 damage to enemies in front of him, then leap away for 6 meters."
+500203,1,Bloody Sacrifice,"After killing an enemy, recover a certain amount of HP ",[DD9B0F]Recover 50 HP.[-]
+500203,2,Bloody Sacrifice,"After killing an enemy, recover a certain amount of HP ",[DD9B0F]Recover 60 HP.[-]
+500203,3,Bloody Sacrifice,"After killing an enemy, recover a certain amount of HP ",[DD9B0F]Recover 70 HP.[-]
+500203,4,Bloody Sacrifice,"After killing an enemy, recover a certain amount of HP ",[DD9B0F]Recover 80 HP.[-]
+500204,1,Slide Tackle,Slide Tackle straight forward,[DD9B0F]Move 6 meters directly ahead.[-]
+500204,2,Slide Tackle,Slide Tackle straight forward,[DD9B0F]Move 6 meters directly ahead.[-]
+500204,3,Slide Tackle,Slide Tackle straight forward,[DD9B0F]Move 6 meters directly ahead.[-]
+500204,4,Slide Tackle,Slide Tackle straight forward,[DD9B0F]Move 6 meters directly ahead.[-]
+500301,1,Shock Device,"Places a shock device on her own body which is activated 3 seconds later, stunning nearby targets",[DD9B0F]Stuns all nearby targets and deals 450 damage.[-]
+500301,2,Shock Device,"Places a shock device on her own body which is activated 3 seconds later, stunning nearby targets",[DD9B0F]Stuns all nearby targets and deals 540 damage.[-]
+500301,3,Shock Device,"Places a shock device on her own body which is activated 3 seconds later, stunning nearby targets",[DD9B0F]Stuns all nearby targets and deals 630 damage.[-]
+500301,4,Shock Device,"Places a shock device on her own body which is activated 3 seconds later, stunning nearby targets",[DD9B0F]Stuns all nearby targets and dealing 720 damage.[-]
+500302,1,Teleporter,An advanced device allows Joan to move around the battlefield like a ghost,[DD9B0F]Tap to drop the teleportation device. Tap again to teleport from your current position back to the location of the device.
+500302,2,Teleporter,An advanced device allows Joan to move around the battlefield like a ghost,[DD9B0F]Tap to drop the teleportation device. Tap again to teleport from your current position back to the location of the device.
+500302,3,Teleporter,An advanced device allows Joan to move around the battlefield like a ghost,[DD9B0F]Tap to drop the teleportation device. Tap again to teleport from your current position back to the location of the device.
+500302,4,Teleporter,An advanced device allows Joan to move around the battlefield like a ghost,[DD9B0F]Tap to drop the teleportation device. Tap again to teleport from your current position back to the location of the device.
+500303,1,Resupply,"Every 8 seconds, nearby friendly units will replenish 1 bullet in magazine.",[DD9B0F]Replenishes 1 bullet[-]
+500303,2,Resupply,"Every 7 seconds, nearby friendly units will replenish 1 bullet in magazine.",[DD9B0F]Replenishes 1 bullet[-]
+500303,3,Resupply,"Every 6 seconds, nearby friendly units will replenish 1 bullet in magazine.",[DD9B0F]Replenishes 1 bullet[-]
+500303,4,Resupply,"Every 5 seconds, nearby friendly units will replenish 1 bullet in magazine.",[DD9B0F]Replenishes 1 bullet[-]
+500304,1,Combat Roll,Rapidly roll forward,[DD9B0F]Roll directly ahead for 6 meters.[-]
+500304,2,Combat Roll,Rapidly roll forward,[DD9B0F]Roll directly ahead for 6 meters.[-]
+500304,3,Combat Roll,Rapidly roll forward,[DD9B0F]Roll directly ahead for 6 meters.[-]
+500304,4,Combat Roll,Rapidly roll forward,[DD9B0F]Roll directly ahead for 6 meters.[-]
+500305,1,Teleport,琼恩技能3_传送_归位,
+500305,2,Teleport,琼恩技能3_传送_归位,
+500305,3,Teleport,琼恩技能3_传送_归位,
+500305,4,Teleport,琼恩技能3_传送_归位,
+500401,1,Multiheal,Fox's greatest strength is healing her teammates,"[DD9B0F]Heals herself and teammates in range, restoring 152 HP[-]"
+500401,2,Multiheal,Fox's greatest strength is healing her teammates,"[DD9B0F]Heals herself and teammates in range, restoring 182 HP[-]"
+500401,3,Multiheal,Fox's greatest strength is healing her teammates,"[DD9B0F]Heals herself and teammates in range, restoring 212 HP[-]"
+500401,4,Multiheal,Fox's greatest strength is healing her teammates,"[DD9B0F]Heals herself and teammates in range, restoring 242 HP[-]"
+500402,1,Hypnotic,"As a nurse, Fox has drugs that can put enemies into a deep sleep",[DD9B0F]Enemy will be asleep for 4 seconds[-]
+500402,2,Hypnotic,"As a nurse, Fox has drugs that can put enemies into a deep sleep",[DD9B0F]Enemy will be asleep for 4 seconds[-]
+500402,3,Hypnotic,"As a nurse, Fox has drugs that can put enemies into a deep sleep",[DD9B0F]Enemy will be asleep for 4 seconds[-]
+500402,4,Hypnotic,"As a nurse, Fox has drugs that can put enemies into a deep sleep",[DD9B0F]Enemy will be asleep for 4 seconds[-]
+500403,1,Running Fight,Fox's movement speed will increase when she hits an enemy.,[DD9B0F]Increase movement speed by 30%[-]
+500403,2,Running Fight,Fox's movement speed will increase when she hits an enemy.,[DD9B0F]Increase movement speed by 33%[-]
+500403,3,Running Fight,Fox's movement speed will increase when she hits an enemy.,[DD9B0F]Increase movement speed by 36%[-]
+500403,4,Running Fight,Fox's movement speed will increase when she hits an enemy.,[DD9B0F]Increase movement speed by 40%[-]
+500404,1,Stimulant,"Besides healing her teammates, Fox can also slaughter enemies on the battlefield",[DD9B0F]Fox increases her damage dealt by 45%. Lasts for 2 second[-]
+500404,2,Stimulant,"Besides healing her teammates, Fox can also slaughter enemies on the battlefield",[DD9B0F]Fox increases her damage dealt by 55%. Lasts for 2 second[-]
+500404,3,Stimulant,"Besides healing her teammates, Fox can also slaughter enemies on the battlefield",[DD9B0F]Fox increases her damage dealt by 65%. Lasts for 2 second[-]
+500404,4,Stimulant,"Besides healing her teammates, Fox can also slaughter enemies on the battlefield",[DD9B0F]Fox increases her damage dealt by 75%. Lasts for 2 second[-]
+500501,1,Slashing Sword,"Li Long skillfully casts blade waves towards his enemies, this skill can be used 2 times continuously before CD.","[DD9B0F]Horizontal slice deals 225 damage, vertical slice deals 288 damage.[-]"
+500501,2,Slashing Sword,"Li Long skillfully casts blade waves towards his enemies, this skill can be used 2 times continuously before CD.","[DD9B0F]Horizontal slice deals 270 damage, vertical slice deals 345 damage.[-]"
+500501,3,Slashing Sword,"Li Long skillfully casts blade waves towards his enemies, this skill can be used 2 times continuously before CD.","[DD9B0F]Horizontal slice deals 315 damage, vertical slice deals 402 damage.[-]"
+500501,4,Slashing Sword,"Li Long skillfully casts blade waves towards his enemies, this skill can be used 2 times continuously before CD.","[DD9B0F]Horizontal slice deals 360 damage, vertical slice deals 460 damage.[-]"
+500502,1,Lightning Blade,"Li Long strikes with his sword, as quick as lightning",[DD9B0F]Deals 265 damage to enemies in range in a straight line[-]
+500502,2,Lightning Blade,"Li Long strikes with his sword, as quick as lightning",[DD9B0F]Deals 291 damage to enemies in range in a straight line[-]
+500502,3,Lightning Blade,"Li Long strikes with his sword, as quick as lightning",[DD9B0F]Deals 318 damage to enemies in range in a straight line[-]
+500502,4,Lightning Blade,"Li Long strikes with his sword, as quick as lightning",[DD9B0F]Deals 345 damage to enemies in range in a straight line[-]
+500503,1,Violent Justice,"After killing an enemy, reduce the cooldown time of all abilities",[DD9B0F]Reduce cooldown time of all abilities by 4 seconds[-]
+500503,2,Violent Justice,"After killing an enemy, reduce the cooldown time of all abilities",[DD9B0F]Reduce cooldown time of all abilities by 4.5 seconds[-]
+500503,3,Violent Justice,"After killing an enemy, reduce the cooldown time of all abilities",[DD9B0F]Reduce cooldown time of all abilities by 5 seconds[-]
+500503,4,Violent Justice,"After killing an enemy, reduce the cooldown time of all abilities",[DD9B0F]Reduce cooldown time of all abilities by 5.5 seconds[-]
+500504,1,Phantom Killer,"Lunges forward with a large knife, dealing damage to enemies in his path",[DD9B0F]Moves forward for 7 meters and deals 215 damage[-]
+500504,2,Phantom Killer,"Lunges forward with a large knife, dealing damage to enemies in his path",[DD9B0F]Moves forward for 7 meters and deals 258 damage[-]
+500504,3,Phantom Killer,"Lunges forward with a large knife, dealing damage to enemies in his path",[DD9B0F]Moves forward for 7 meters and deals 301 damage[-]
+500504,4,Phantom Killer,"Lunges forward with a large knife, dealing damage to enemies in his path",[DD9B0F]Moves forward for 7 meters and deals 344 damage[-]
+500505,1,Slashing Sword,"Li Long skillfully casts blade waves towards his enemies, this skill can be used 2 times continuously before CD.","[DD9B0F]Horizontal slice deals 225 damage, vertical slice deals 288 damage.[-]"
+500505,2,Slashing Sword,"Li Long skillfully casts blade waves towards his enemies, this skill can be used 2 times continuously before CD.","[DD9B0F]Horizontal slice deals 270 damage, vertical slice deals 345 damage.[-]"
+500505,3,Slashing Sword,"Li Long skillfully casts blade waves towards his enemies, this skill can be used 2 times continuously before CD.","[DD9B0F]Horizontal slice deals 315 damage, vertical slice deals 402 damage.[-]"
+500505,4,Slashing Sword,"Li Long skillfully casts blade waves towards his enemies, this skill can be used 2 times continuously before CD.","[DD9B0F]Horizontal slice deals 360 damage, vertical slice deals 460 damage.[-]"
+500601,1,Landmine,A deadly trap laid by Catherine. Don't get too close!,"[DD9B0F]If triggered, landmine exploddes and deals a 235 damage. Max of 5 landmines may be laid[-]"
+500601,2,Landmine,A deadly trap laid by Catherine. Don't get too close!,"[DD9B0F]If triggered, landmine exploddes and deals a 282 damage. Max of 5 landmines may be laid[-]"
+500601,3,Landmine,A deadly trap laid by Catherine. Don't get too close!,"[DD9B0F]If triggered, landmine exploddes and deals a 329 damage. Max of 5 landmines may be laid[-]"
+500601,4,Landmine,A deadly trap laid by Catherine. Don't get too close!,"[DD9B0F]If triggered, landmine exploddes and deals a 376 damage. Max of 5 landmines may be laid[-]"
+500602,1,Mini-Turret,Place a turret that packs massive firepower despite its small size,"[DD9B0F]Places a turret directly ahead of Catherine, a maximum of 2 can be on the battlefield at the same time[-]"
+500602,2,Mini-Turret,Place a turret that packs massive firepower despite its small size,"[DD9B0F]Places a turret directly ahead of Catherine, a maximum of 2 can be on the battlefield at the same time[-]"
+500602,3,Mini-Turret,Place a turret that packs massive firepower despite its small size,"[DD9B0F]Places a turret directly ahead of Catherine, a maximum of 2 can be on the battlefield at the same time[-]"
+500602,4,Mini-Turret,Place a turret that packs massive firepower despite its small size,"[DD9B0F]Places a turret directly ahead of Catherine, a maximum of 2 can be on the battlefield at the same time[-]"
+500603,1,Grenade Master,Get 1 grenade automatically at fixed intervals,[DD9B0F]Get a high damage grenade every 10 seconds[-]
+500603,2,Grenade Master,Get 1 grenade automatically at fixed intervals,[DD9B0F]Get a high damage grenade every 9 seconds[-]
+500603,3,Grenade Master,Get 1 grenade automatically at fixed intervals,[DD9B0F]Get a high damage grenade every 8 seconds[-]
+500603,4,Grenade Master,Get 1 grenade automatically at fixed intervals,[DD9B0F]Get a high damage grenade every 7 seconds[-]
+500604,1,Hide and Seek,Catherine is an Expert at Hide and Seek,[DD9B0F]Becomes invisible and increases movement speed by 15%. Lasts for 3 seconds[-]
+500604,2,Hide and Seek,Catherine is an Expert at Hide and Seek,[DD9B0F]Becomes invisible and increases movement speed by 18%. Lasts for 3 seconds[-]
+500604,3,Hide and Seek,Catherine is an Expert at Hide and Seek,[DD9B0F]Becomes invisible and increases movement speed by 21%. Lasts for 3 seconds[-]
+500604,4,Hide and Seek,Catherine is an Expert at Hide and Seek,[DD9B0F]Becomes invisible and increases movement speed by 24%. Lasts for 3 seconds[-]
+500605,1,Explosive Trap,,
+500605,2,Explosive Trap,,
+500605,3,Explosive Trap,,
+500605,4,Explosive Trap,,
+500701,1,M28 Grenade Launcher,An RPG attack is every enemy's worst nightmare,[DD9B0F]Shoots M28 Grenade Launcher in a straight line. Deals 400 damage[-]
+500701,2,M28 Grenade Launcher,An RPG attack is every enemy's worst nightmare,[DD9B0F]Shoots M28 Grenade Launcher in a straight line. Deals 480 damage[-]
+500701,3,M28 Grenade Launcher,An RPG attack is every enemy's worst nightmare,[DD9B0F]Shoots M28 Grenade Launcher in a straight line. Deals 560 damage[-]
+500701,4,M28 Grenade Launcher,An RPG attack is every enemy's worst nightmare,[DD9B0F]Shoots M28 Grenade Launcher in a straight line. Deals 640 damage[-]
+500702,1,Grappling Hook,Escape is impossible when Logan is in pursuit,[DD9B0F]Pull a distant enemy closer and stun him for 1 second[-]
+500702,2,Grappling Hook,Escape is impossible when Logan is in pursuit,[DD9B0F]Pull a distant enemy closer and stun him for 1 second[-]
+500702,3,Grappling Hook,Escape is impossible when Logan is in pursuit,[DD9B0F]Pull a distant enemy closer and stun him for 1 second[-]
+500702,4,Grappling Hook,Escape is impossible when Logan is in pursuit,[DD9B0F]Pull a distant enemy closer and stun him for 1 second[-]
+500703,1,Master's Defense,Gains a temporary shield when one of his skills hits an enemy,"[DD9B0F]The shield absorbs up to 48 damage, lasts for 4 seconds[-]"
+500703,2,Master's Defense,Gains a temporary shield when one of his skills hits an enemy,"[DD9B0F]The shield absorbs up to 56 damage, lasts for 4 seconds[-]"
+500703,3,Master's Defense,Gains a temporary shield when one of his skills hits an enemy,"[DD9B0F]The shield absorbs up to 64 damage, lasts for 4 seconds[-]"
+500703,4,Master's Defense,Gains a temporary shield when one of his skills hits an enemy,"[DD9B0F]The shield absorbs up to 72 damage, lasts for 4 seconds[-]"
+500704,1,Fearless Advance,Rush directly ahead and equip a shield,[DD9B0F]Shield absorbs up to 50 damage. Lasts for 5 seconds[-]
+500704,2,Fearless Advance,Rush directly ahead and equip a shield,[DD9B0F]Shield absorbs up to 60 damage. Lasts for 5 seconds[-]
+500704,3,Fearless Advance,Rush directly ahead and equip a shield,[DD9B0F]Shield absorbs up to 70 damage. Lasts for 5 seconds[-]
+500704,4,Fearless Advance,Rush directly ahead and equip a shield,[DD9B0F]Shield absorbs up to 80 damage. Lasts for 5 seconds[-]
+500801,1,Quicksand,"If you fall into Amir's trap, its already too late","[DD9B0F]Enemies in range will have their movement speed reduced by 40% and normal attack disabled, lasts 5 seconds"
+500801,2,Quicksand,"If you fall into Amir's trap, its already too late","[DD9B0F]Enemies in range will have their movement speed reduced by 43% and normal attack disabled, lasts 5 seconds"
+500801,3,Quicksand,"If you fall into Amir's trap, its already too late","[DD9B0F]Enemies in range will have their movement speed reduced by 46% and normal attack disabled, lasts 5 seconds"
+500801,4,Quicksand,"If you fall into Amir's trap, its already too late","[DD9B0F]Enemies in range will have their movement speed reduced by 50% and normal attack disabled, lasts 5 seconds"
+500802,1,Gravity Burst,"Throw a gravitation device that, when activated, pulls enemies in the area towards it",[DD9B0F]Pulls all enemies in the area and deals 205 damage[-]
+500802,2,Gravity Burst,"Throw a gravitation device that, when activated, pulls enemies in the area towards it",[DD9B0F]Pulls all enemies in the area and deals 246 damage[-]
+500802,3,Gravity Burst,"Throw a gravitation device that, when activated, pulls enemies in the area towards it",[DD9B0F]Pulls all enemies in the area and deals 287 damage[-]
+500802,4,Gravity Burst,"Throw a gravitation device that, when activated, pulls enemies in the area towards it",[DD9B0F]Attracts all enemies in the area and deal 328 damage[-]
+500803,1,Rapid Fire,Emit an aura which increases the Fire Rate of all allies in range.,[DD9B0F]Increases Fire Rate by 5%[-]
+500803,2,Rapid Fire,Emit an aura which increases the Fire Rate of all allies in range.,[DD9B0F]Increases Fire Rate by 7%[-]
+500803,3,Rapid Fire,Emit an aura which increases the Fire Rate of all allies in range.,[DD9B0F]Increases Fire Rate by 9%[-]
+500803,4,Rapid Fire,Emit an aura which increases the Fire Rate of all allies in range.,[DD9B0F]Increases Fire Rate by 11%[-]
+500804,1,Leap of Faith,"Rapidly Leap forward, and upon landing reduce the movement speed of all nearby enemy units","[DD9B0F]Leap forward, and reduce nearby enemy movement speed by 10%[-]"
+500804,2,Leap of Faith,"Rapidly Leap forward, and upon landing reduce the movement speed of all nearby enemy units","[DD9B0F]Leap forward, and reduce nearby enemy movement speed by 13%[-]"
+500804,3,Leap of Faith,"Rapidly Leap forward, and upon landing reduce the movement speed of all nearby enemy units","[DD9B0F]Leap forward, and reduce nearby enemy movement speed by 16%[-]"
+500804,4,Leap of Faith,"Rapidly Leap forward, and upon landing reduce the movement speed of all nearby enemy units","[DD9B0F]Leap forward, and reduce nearby enemy movement speed by 20%[-]"
+500805,1,Quicksand,,
+500805,2,Quicksand,,
+500805,3,Quicksand,,
+500805,4,Quicksand,,
+500807,1,Leap of Faith,,
+500807,2,Leap of Faith,,
+500807,3,Leap of Faith,,
+500807,4,Leap of Faith,,
+500901,1,Aim Stabilizer,Shoot in the selected direction while at the same time moving in a fixed direction,"[DD9B0F]Shoot directly ahead 30 times, each time dealing 44 damage[-]"
+500901,2,Aim Stabilizer,Shoot in the selected direction while at the same time moving in a fixed direction,"[DD9B0F]Shoot directly ahead 30 times, each time dealing 50 damage[-]"
+500901,3,Aim Stabilizer,Shoot in the selected direction while at the same time moving in a fixed direction,"[DD9B0F]Shoot directly ahead 30 times, each time dealing 56 damage[-]"
+500901,4,Aim Stabilizer,Shoot in the selected direction while at the same time moving in a fixed direction,"[DD9B0F]Shoot directly ahead 30 times, each time dealing 62 damage[-]"
+500902,1,Bullet Storm,Unleash a hail of bullets while leaping into the air. Can continue moving while shooting.,"[DD9B0F]Shoot every enemy in the area 13 times, each time dealing 42 damage, and gaining 200 additional armor while shooting[-]"
+500902,2,Bullet Storm,Unleash a hail of bullets while leaping into the air. Can continue moving while shooting.,"[DD9B0F]Shoot every enemy in the area 13 times, each time dealing 50 damage, and gaining 240 additional armor while shooting[-]"
+500902,3,Bullet Storm,Unleash a hail of bullets while leaping into the air. Can continue moving while shooting.,"[DD9B0F]Shoot every enemy in the area 13 times, each time dealing 58 damage, and gaining 280 additional armor while shooting[-]"
+500902,4,Bullet Storm,Unleash a hail of bullets while leaping into the air. Can continue moving while shooting.,"[DD9B0F]Shoot every enemy in the area 13 times, each time dealing 66 damage, and gaining 320 additional armor while shooting[-]"
+500903,1,Morale Boost,"After hitting an enemy, have a chance at reducing skill cooldown time",[DD9B0F]Reduce Skill Cooldown time by 0.5 sec[-]
+500903,2,Morale Boost,"After hitting an enemy, have a chance at reducing skill cooldown time",[DD9B0F]Reduce Skill Cooldown time by 0.6 sec[-]
+500903,3,Morale Boost,"After hitting an enemy, have a chance at reducing skill cooldown time",[DD9B0F]Reduce Skill Cooldown time by 0.7 sec[-]
+500903,4,Morale Boost,"After hitting an enemy, have a chance at reducing skill cooldown time",[DD9B0F]Reduce Skill Cooldown time by 0.8 sec[-]
+500904,1,Ninja Leap,"Instantaneously jump a short distance, cat store 2 charges",[DD9B0F]Move 6 meters forward[-]
+500904,2,Ninja Leap,"Instantaneously jump a short distance, cat store 2 charges",[DD9B0F]Move 6 meters forward[-]
+500904,3,Ninja Leap,"Instantaneously jump a short distance, cat store 2 charges",[DD9B0F]Move 6 meters forward[-]
+500904,4,Ninja Leap,"Instantaneously jump a short distance, cat store 2 charges",[DD9B0F]Move 6 meters forward[-]
+501001,1,Wall of Flames,Creates a fire wall in front of himself,"[DD9B0F]Wall of Flames deals 152 damage each second, wall persists for 9 seconds[-]"
+501001,2,Wall of Flames,Creates a fire wall in front of himself,"[DD9B0F]Wall of Flames deals 183 damage each second, wall persists for 9 seconds[-]"
+501001,3,Wall of Flames,Creates a fire wall in front of himself,"[DD9B0F]Wall of Flames deals 214 damage each second, wall persists for 9 seconds[-]"
+501001,4,Wall of Flames,Creates a fire wall in front of himself,"[DD9B0F]Wall of Flames deals 245 damage each second, wall persists for 9 seconds[-]"
+501002,1,Oil Barrel,"Throw a barrel of oil towards the target area, it bursts open and covers nearby enemies in flammable oil","[DD9B0F]Deals 125 AOE damage, enemies covered in oil will take more damage when they are hit with flame attacks, lasts 10 seconds[-]"
+501002,2,Oil Barrel,"Throw a barrel of oil towards the target area, it bursts open and covers nearby enemies in flammable oil","[DD9B0F]Deals 150 AOE damage, enemies covered in oil will take more damage when they are hit with flame attacks, lasts 10 seconds[-]"
+501002,3,Oil Barrel,"Throw a barrel of oil towards the target area, it bursts open and covers nearby enemies in flammable oil","[DD9B0F]Deals 175 AOE damage, enemies covered in oil will take more damage when they are hit with flame attacks, lasts 10 seconds[-]"
+501002,4,Oil Barrel,"Throw a barrel of oil towards the target area, it bursts open and covers nearby enemies in flammable oil","[DD9B0F]Deals 200 AOE damage, enemies covered in oil will take more damage when they are hit with flame attacks, lasts 10 seconds[-]"
+501003,1,Unbreakable Courage,Increase movement speed after using any skill,"[DD9B0F]Increase Hero's movement speed by 10%, lasts for 5 seconds[-]"
+501003,2,Unbreakable Courage,Increase movement speed after using any skill,"[DD9B0F]Increase Hero's movement speed by 15%, lasts for 5 seconds[-]"
+501003,3,Unbreakable Courage,Increase movement speed after using any skill,"[DD9B0F]Increase Hero's movement speed by 20%, lasts for 5 seconds[-]"
+501003,4,Unbreakable Courage,Increase movement speed after using any skill,"[DD9B0F]Increase Hero's movement speed by 25%, lasts for 5 seconds[-]"
+501004,1,Flaming Forcefield,"Creates a flaming forcefield that increases the defense of all allied troops within it, as well as dealing damage to enemies","[DD9B0F]Increases Armor of teammates by 200 and deals 30 damage every 0.5 second, lasts for 8 seconds[-]"
+501004,2,Flaming Forcefield,"Creates a flaming forcefield that increases the defense of all allied troops within it, as well as dealing damage to enemies","[DD9B0F]Increases Armor of teammates by 240 and deals 36 damage every 0.5 second, lasts for 8 seconds[-]"
+501004,3,Flaming Forcefield,"Creates a flaming forcefield that increases the defense of all allied troops within it, as well as dealing damage to enemies","[DD9B0F]Increases Armor of teammates by 280 and deals 42 damage every 0.5 second, lasts for 8 seconds[-]"
+501004,4,Flaming Forcefield,"Creates a flaming forcefield that increases the defense of all allied troops within it, as well as dealing damage to enemies","[DD9B0F]Increases Armor of teammates by 320 and deals 48 damage every 0.5 second, lasts for 8 seconds[-]"
+501005,1,Flaming Forcefield,,
+501005,2,Flaming Forcefield,,
+501005,3,Flaming Forcefield,,
+501005,4,Flaming Forcefield,,
+501006,1,Wall of Flames,,
+501006,2,Wall of Flames,,
+501006,3,Wall of Flames,,
+501006,4,Wall of Flames,,
+501007,1,Flamethrower,,
+501007,2,Flamethrower,,
+501007,3,Flamethrower,,
+501007,4,Flamethrower,,
+501101,1,Immobilizing Trap,Place an immobilizing trap at your current location,[DD9B0F]Enemies who enter the trap will be unable to move for 2 seconds[-]
+501101,2,Immobilizing Trap,Place an immobilizing trap at your current location,[DD9B0F]Enemies who enter the trap will be unable to move for 2.5 seconds[-]
+501101,3,Immobilizing Trap,Place an immobilizing trap at your current location,[DD9B0F]Enemies who enter the trap will be unable to move and for 3 seconds[-]
+501101,4,Immobilizing Trap,Place an immobilizing trap at your current location,[DD9B0F]Enemies who enter the trap will be unable to move for 3.5 seconds[-]
+501102,1,Hail of Arrows,"Unleash a hail of arrows onto the indicated area, strikes enemies 3 times","[DD9B0F]Unleash 3 volleys, each deals 200 damage[-]"
+501102,2,Hail of Arrows,"Unleash a hail of arrows onto the indicated area, strikes enemies 3 times","[DD9B0F]Unleash 3 volleys, each deals 240 damage[-]"
+501102,3,Hail of Arrows,"Unleash a hail of arrows onto the indicated area, strikes enemies 3 times","[DD9B0F]Unleash 3 volleys, each deals 280 damage[-]"
+501102,4,Hail of Arrows,"Unleash a hail of arrows onto the indicated area, strikes enemies 3 times","[DD9B0F]Unleash 3 volleys, each deals 320 damage[-]"
+501103,1,Poison Arrow,Each 3 seconds next basic attack gets additional poison effect,[DD9B0F]Deal 20 poison damage per second for 5 seconds[-]
+501103,2,Poison Arrow,Each 3 seconds next basic attack gets additional poison effect,[DD9B0F]Deal 25 poison damage per second for 5 seconds[-]
+501103,3,Poison Arrow,Each 3 seconds next basic attack gets additional poison effect,[DD9B0F]Deal 30 poison damage per second for 5 seconds[-]
+501103,4,Poison Arrow,Each 3 seconds next basic attack gets additional poison effect,[DD9B0F]Deal 35 poison damage per second for 5 seconds[-]
+501104,1,Daring Leap,"The first time this skill is triggered, roll directly ahead. The second time, shoot targets in the area multiple times.","[DD9B0F]On first use, roll directly forward. On second use, deal 282 damage to all enemies in range.[-]"
+501104,2,Daring Leap,"The first time this skill is triggered, roll directly ahead. The second time, shoot targets in the area multiple times.","[DD9B0F]On first use, roll directly forward. On second use, deal 334 damage to all enemies in range.[-]"
+501104,3,Daring Leap,"The first time this skill is triggered, roll directly ahead. The second time, shoot targets in the area multiple times.","[DD9B0F]On first use, roll directly forward. On second use, deal 386 damage to all enemies in range.[-]"
+501104,4,Daring Leap,"The first time this skill is triggered, roll directly ahead. The second time, shoot targets in the area multiple times.","[DD9B0F]On first use, roll directly forward. On second use, deal 438 damage to all enemies in range.[-]"
+501105,1,Immobilizing Trap,,
+501105,2,Immobilizing Trap,,
+501105,3,Immobilizing Trap,,
+501105,4,Immobilizing Trap,,
+501106,1,Daring Leap,,
+501106,2,Daring Leap,,
+501106,3,Daring Leap,,
+501106,4,Daring Leap,,
+505001,1,Mech Cannon,Mech Cannon,
+505001,2,Mech Cannon,Mech Cannon,
+505001,3,Mech Cannon,Mech Cannon,
+505001,4,Mech Cannon,Mech Cannon,
+505002,1,Mech Missile,Mech Missile,
+505002,2,Mech Missile,Mech Missile,
+505002,3,Mech Missile,Mech Missile,
+505002,4,Mech Missile,Mech Missile,
+505003,1,Flying Mech,Flying Mech,
+505003,2,Flying Mech,Flying Mech,
+505003,3,Flying Mech,Flying Mech,
+505003,4,Flying Mech,Flying Mech,
+505004,1,Self-Destruct,Self-Destruct,
+505004,2,Self-Destruct,Self-Destruct,
+505004,3,Self-Destruct,Self-Destruct,
+505004,4,Self-Destruct,Self-Destruct,
+505005,1,Pilot Mech,Pilot Mech,
+505005,2,Pilot Mech,Pilot Mech,
+505005,3,Pilot Mech,Pilot Mech,
+505005,4,Pilot Mech,Pilot Mech,
+520001,1,Exploding Oil Barrel,,
+520002,1,Fire Stream,,
+520003,1,Poison Trap,,
+520004,1,Freeze Effect,,
+520005,1,Gravity Plate,,
+520006,1,Landmine (Not a Skill),,
+520007,1,Snowball,,
+520008,1,Flashlight,,
+520009,1,Swamp,,
+520010,1,Oil Pool,,
+520011,1,Quicksand,,
+520012,1,Ground Spike,,
+521000,1,High Damage Grenade,The High Damage Grenade deals massive damage. Every enemy's nightmare,Use a grenade to attack the selected area. Deals 125 damage
+521001,1,Flash Bang,The Flash Bang is useful for distracting enemies from your movements,Throws a Flash Bang to the selected area. Blinds enemies.
+521002,1,Incendiary Grenade,,Use an incendiary grenade to attack the selected area. Blast deals damage multiple times
+522000,1,Mini EXP,EXP item that appears on the ground. Provides a very small amount of EXP,
+522001,1,Small EXP,Small EXP item that may drop after a hero has been killed,
+522002,1,Medimum EXP,Medium EXP item that may drop after a hero has been killed,
+522003,1,Large EXP,Large EXP item that may drop after a hero has been killed,
+522004,1,Open a small grenade box,,
+522005,1,Open a small Flash-bang box,,
+522006,1,Open a small incendiary grenade box,,
+522007,1,Open a healing box,,
+522008,1,Open a large healing box,,
+522009,1,Laya's Shield,,
+522010,1,Speed-up item,,
+523001,1,Generated Item (Deathmatch),,
+523002,1,Generated Item (Non-Deathmatch),,
+523003,1,Deathmatch Mode - Chest,,
+523004,1,Breakable Grenade Box,,
+523005,1,Breakable Health Box,,
+523006,1,Non-Deathmatch Mode - Chest,,
+523007,1,Hidden,,
+523008,1,Slow Zone,,
+523009,1,Breakable Health Box (Team Battle),,
+524000,1,Target Shatter Effect,,
+560101,1,Joan's Sniper Rifle,Sniper Rifle,
+560102,1,Fox's Sniper Rifle,Fox's Sniper Rifle,
+561201,1,Place C4,Place C4,
+561202,1,Remove C4,Remove C4,
+801001,1,Earth Crusher,,
+801011,1,Whirlwind Blade,,
+801021,1,Quad-Strike,,
+801022,1,Quad-Strike,,
+801023,1,Quad-Strike,,
+801024,1,Quad-Strike,,
+801031,1,Apocalyptic Quake,,
+801041,1,Poison Mist,,
+801051,1,Windblade,,
+990000,1,Basic Attack,,

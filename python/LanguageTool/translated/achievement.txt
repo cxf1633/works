@@ -1,0 +1,173 @@
+$id,name,intro
+950101,Component Collector 1,Own 1 Level 5 Component
+950102,Component Collector 2,Own 5 Level 5 Components
+950103,Component Collector 3,Own 10 Level 5 Components
+950104,Component Collector 4,Own 15 Level 5 Components
+950105,Component Collector 5,Own 20 Level 5 Components
+950106,Component Collector 6,Own 30 Level 5 Components
+950107,Component Collector 7,Own 40 Level 5 Components
+950108,Component Collector 8,Own 50 Level 5 Components
+950201,Component Expert 1,Craft a component 1 time
+950202,Component Expert 2,Craft a component 5 times
+950203,Component Expert 3,Craft a component 10 times
+950204,Component Expert 4,Craft a component 20 times
+950205,Component Expert 5,Craft a component 50 times
+950206,Component Expert 6,Craft a component 100 times
+950207,Component Expert 7,Craft a component 200 times
+950208,Component Expert 8,Craft a component 500 times
+950301,Skin Collector 1,Own 1 Skin
+950302,Skin Collector 2,Own 2 Skins
+950303,Skin Collector 3,Own 3 Skins
+950304,Skin Collector 4,Own 4 Skins
+950305,Skin Collector 5,Own 5 Skins
+950401,Recruiter 1,Own 5 Heroes
+950402,Recruiter 2,Own 6 Heroes
+950403,Recruiter 3,Own 7 Heroes
+950404,Recruiter 4,Own 8 Heroes
+950405,Recruiter 5,Own 9 Heroes
+950406,Recruiter 6,Own 10 Heroes
+950407,Recruiter 7,Own 11 Heroes
+950408,Recruiter 8,Own 12 Heroes
+950501,Moneybag 1,Accumulate 10000 Gold
+950502,Moneybag 2,Accumulate 20000 Gold
+950503,Moneybag 3,Accumulate 40000 Gold
+950504,Moneybag 4,Accumulate 80000 Gold
+950505,Moneybag 5,Accumulate 120000 Gold
+950506,Moneybag 6,Accumulate 160000 Gold
+950507,Moneybag 7,Accumulate 200000 Gold
+950508,Moneybag 8,Accumulate 400000 Gold
+950601,"Blood, Sweat and Tears 1",Accumulate 50 minutes online
+950602,"Blood, Sweat and Tears 2",Accumulate 100 minutes online
+950603,"Blood, Sweat and Tears 3",Accumulate 200 minutes online
+950604,"Blood, Sweat and Tears 4",Accumulate 400 minutes online
+950605,"Blood, Sweat and Tears 5",Accumulate 800 minutes online
+950606,"Blood, Sweat and Tears 6",Accumulate 1600 minutes online
+950607,"Blood, Sweat and Tears 7",Accumulate 3200 minutes online
+950608,"Blood, Sweat and Tears 8",Accumulate 6400 minutes online
+951001,Alliance Builder 1,Make 1 Friend
+951002,Alliance Builder 2,Make 5 Friends
+951003,Alliance Builder 3,Make 10 Friends
+951004,Alliance Builder 4,Make 20 Friends
+951005,Alliance Builder 5,Make 40 Friends
+951006,Alliance Builder 6,Make 60 Friends
+951007,Alliance Builder 7,Make 80 Friends
+951008,Alliance Builder 8,Make 100 Friends
+951101,Benefactor 1,Send Gold to Friends 5 times
+951102,Benefactor 2,Send Gold to Friends 10 times
+951103,Benefactor 3,Send Gold to Friends 20 times
+951104,Benefactor 4,Send Gold to Friends 50 times
+951105,Benefactor 5,Send Gold to Friends 100 times
+951106,Benefactor 6,Send Gold to Friends 200 times
+951107,Benefactor 7,Send Gold to Friends 500 times
+951108,Benefactor 8,Send Gold to Friends 1000 times
+951201,Trusty Partners 1,Fight together with a Friend in 10 Battles
+951202,Trusty Partners 2,Fight together with a Friend in 20 Battles
+951203,Trusty Partners 3,Fight together with a Friend in 50 Battles
+951204,Trusty Partners 4,Fight together with a Friend in 100 Battles
+951205,Trusty Partners 5,Fight together with a Friend in 200 Battles
+951206,Trusty Partners 6,Fight together with a Friend in 500 Battles
+951207,Trusty Partners 7,Fight together with a Friend in 1000 Battles
+951208,Trusty Partners 8,Fight together with a Friend in 2000 Battles
+951401,Legion Member,Join any Legion
+951501,United Force 1,Reach an Exploit Rank of 2 in a Legion
+951502,United Force 2,Reach an Exploit Rank of 3 in a Legion
+951503,United Force 3,Reach an Exploit Rank of 4 in a Legion
+951504,United Force 4,Reach an Exploit Rank of 5 in a Legion
+951505,United Force 5,Reach an Exploit Rank of 6 in a Legion
+951506,United Force 6,Reach an Exploit Rank of 7 in a Legion
+951601,Legion Leader 1,Make 100 Legion Contributions
+951602,Legion Leader 2,Make 200 Legion Contributions
+951603,Legion Leader 3,Make 500 Legion Contributions
+951604,Legion Leader 4,Make 1000 Legion Contributions
+951605,Legion Leader 5,Make 2000 Legion Contributions
+951606,Legion Leader 6,Make 5000 Legion Contributions
+951607,Legion Leader 7,Make 10000 Legion Contributions
+951608,Legion Leader 8,Make 20000 Legion Contributions
+951901,Veteran Warrior 1,Complete 10 PVP Battles
+951902,Veteran Warrior 2,Complete 20 PVP Battles
+951903,Veteran Warrior 3,Complete 50 PVP Battles
+951904,Veteran Warrior 4,Complete 100 PVP Battles
+951905,Veteran Warrior 5,Complete 200 PVP Battles
+951906,Veteran Warrior 6,Complete 500 PVP Battles
+951907,Veteran Warrior 7,Complete 1000 PVP Battles
+951908,Veteran Warrior 8,Complete 2000 PVP Battles
+952001,Earn Your Stripes 1,Earn 5 Victories in Quick Battles
+952002,Earn Your Stripes 2,Earn 10 Victories in Quick Battles
+952003,Earn Your Stripes 3,Earn 50 Victories in Quick Battles
+952004,Earn Your Stripes 4,Earn 100 Victories in Quick Battles
+952005,Earn Your Stripes 5,Earn 200 Victories in Quick Battles
+952006,Earn Your Stripes 6,Earn 400 Victories in Quick Battles
+952007,Earn Your Stripes 7,Earn 800 Victories in Quick Battles
+952008,Earn Your Stripes 8,Earn 1500 Victories in Quick Battles
+952101,Winning Streak 1,Earn 5 Consecutive Victories in Quick Battles
+952102,Winning Streak 2,Earn 8 Consecutive Victories in Quick Battles
+952103,Winning Streak 3,Earn 10 Consecutive Victories in Quick Battles
+952104,Winning Streak 4,Earn 12 Consecutive Victories in Quick Battles
+952105,Winning Streak 5,Earn 14 Consecutive Victories in Quick Battles
+952106,Winning Streak 6,Earn 16 Consecutive Victories in Quick Battles
+952107,Winning Streak 7,Earn 18 Consecutive Victories in Quick Battles
+952108,Winning Streak 8,Earn 20 Consecutive Victories in Quick Battles
+952201,Skilled Killer 1,Kill 50 opponents in PVP Battles
+952202,Skilled Killer 2,Kill 100 opponents in PVP Battles
+952203,Skilled Killer 3,Kill 200 opponents in PVP Battles
+952204,Skilled Killer 4,Kill 500 opponents in PVP Battles
+952205,Skilled Killer 5,Kill 1000 opponents in PVP Battles
+952206,Skilled Killer 6,Kill 2000 opponents in PVP Battles
+952207,Skilled Killer 7,Kill 5000 opponents in PVP Battles
+952208,Skilled Killer 8,Kill 10000 opponents in PVP Battles
+952301,Triple Threat 1,Make 5 triple kills
+952302,Triple Threat 2,Make 10 triple kills
+952303,Triple Threat 3,Make 20 triple kills
+952304,Triple Threat 4,Make 50 triple kills
+952305,Triple Threat 5,Make 100 triple kills
+952306,Triple Threat 6,Make 200 triple kills
+952401,Ultra Soldier 1,Make 5 ultra kills
+952402,Ultra Soldier 2,Make 10 ultra kills
+952403,Ultra Soldier 3,Make 20 ultra kills
+952404,Ultra Soldier 4,Make 50 ultra kills
+952405,Ultra Soldier 5,Make 100 ultra kills
+952406,Ultra Soldier 6,Make 200 ultra kills
+952501,Penta Killer 1,Make 1 Penta kill
+952502,Penta Killer 2,Make 5 penta kills
+952503,Penta Killer 3,Make 10 penta kills
+952504,Penta Killer 4,Make 20 penta kills
+952505,Penta Killer 5,Make 50 penta kills
+952506,Penta Killer 6,Make 100 penta kills
+952601,Best Overall 1,Earn 1 MVP in Quick Battles
+952602,Best Overall 2,Earn 5 MVPs in Quick Battles
+952603,Best Overall 3,Earn 10 MVPs in Quick Battles
+952604,Best Overall 4,Earn 50 MVPs in Quick Battles
+952605,Best Overall 5,Earn 100 MVPs in Quick Battles
+952606,Best Overall 6,Earn 200 MVPs in Quick Battles
+952607,Best Overall 7,Earn 500 MVPs in Quick Battles
+952608,Best Overall 8,Earn 1000 MVPs in Quick Battles
+952701,Best Teammate 1,Earn 10 Assists
+952702,Best Teammate 2,Earn 20 Assists
+952703,Best Teammate 3,Earn 50 Assists
+952704,Best Teammate 4,Earn 100 Assists
+952705,Best Teammate 5,Earn 200 Assists
+952706,Best Teammate 6,Earn 500 Assists
+952707,Best Teammate 7,Earn 1000 Assists
+952708,Best Teammate 8,Earn 2000 Assists
+953101,Immortal 1,Complete 1 battle with 10 kills and no deaths
+953102,Immortal 2,Complete 2 battles with 10 kills and no deaths
+953103,Immortal 3,Complete 5 battle with 10 kills and no deaths
+953104,Immortal 4,Complete 10 battle with 10 kills and no deaths
+953105,Immortal 5,Complete 20 battle with 10 kills and no deaths
+953106,Immortal 6,Complete 50 battle with 10 kills and no deaths
+953301,Damage Dealer 1,Accumulate 10000 damage dealt in PVP battles
+953302,Damage Dealer 2,Accumulate 50000 damage dealt in PVP battles
+953303,Damage Dealer 3,Accumulate 100000 damage dealt in PVP battles
+953304,Damage Dealer 4,Accumulate 200000 damage dealt in PVP battles
+953305,Damage Dealer 5,Accumulate 500000 damage dealt in PVP battles
+953306,Damage Dealer 6,Accumulate 1000000 damage dealt in PVP battles
+953307,Damage Dealer 7,Accumulate 2000000 damage dealt in PVP battles
+953308,Damage Dealer 8,Accumulate 5000000 damage dealt in PVP battles
+953401,Meat Shield 1,Accumulate 5000 damage taken in PVP battles
+953402,Meat Shield 2,Accumulate 10000 damage taken in PVP battles
+953403,Meat Shield 3,Accumulate 50000 damage taken in PVP battles
+953404,Meat Shield 4,Accumulate 100000 damage taken in PVP battles
+953405,Meat Shield 5,Accumulate 200000 damage taken in PVP battles
+953406,Meat Shield 6,Accumulate 500000 damage taken in PVP battles
+953407,Meat Shield 7,Accumulate 1000000 damage taken in PVP battles
+953408,Meat Shield 8,Accumulate 2000000 damage taken in PVP battles

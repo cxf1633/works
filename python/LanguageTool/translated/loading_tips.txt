@@ -1,0 +1,28 @@
+$id,word
+1,Avoid dying at all costs in Team Battles
+2,The team that accumulates 50 kills first will win
+3,"Cooperating with teammates is important, try to use each hero's strengths for the benefit of the team"
+4,Protect the hero carrying the C4
+5,Placing the C4 at the detonation point and detonating it will immediately win the round for your team
+6,Defending the detonation point is crucial for victory
+7,"In Loot mode, the focus is on capturing resources, not blindly killing"
+8,Try to occupy as many resource points as possible
+9,Don't let enemies to occupy resource points!
+10,"In Battle Royale, auto-aim cannot be used. You must push the right joystick in the proper direction to shoot"
+11,"When you level up in battle, remember to choose a talent on the left side of the screen"
+12,Collect EXP during battles in order to Level Up
+13,"In the Newbie area, you only need to press down the right joystick without moving it and it will automatically aim and shoot"
+14,You can also move the right joystick to choose the direction of fire
+15,Auto-aiming can only be used in the Newbie Area
+16,Use the left joystick to move and the right joystick to shoot
+17,Remember to keep moving while shooting. Don't stay in one place too long.
+18,"In the training area, you can learn the basics"
+19,"In team deathmatch, there are 4 different teams fighting each other on a single map"
+20,"Each team has 3 heroes. Besides your two teammates, everyone else you encounter is an enemy"
+21,Try to move as a group and don't leave teammates behind
+22,"In Boss mode, no matter how you cooperate with your teammates, dealing the most damage is important"
+23,"You must defeat the boss within 10 minutes. If time runs out, you lose "
+24,"If you want to complete this challenge, you must try to avoid dying"
+25,"From now on, you will need to know how to aim manually"
+26,"You will need to move the right joystick in the direction you want to shoot, otherwise your gun won't fire"
+27,Push the joystick in the direction of the boss to manually aim

@@ -1,0 +1,604 @@
+$effect_id,$lv,effect_name,intro
+700000,1,近战,0
+700001,1,Bullet Spray,0
+700001,2,Bullet Spray,0
+700001,3,Bullet Spray,0
+700001,4,Bullet Spray,0
+700002,1,盖亚技能2_护盾装置_生成触发器,0
+700002,2,盖亚技能2_护盾装置_生成触发器,0
+700002,3,盖亚技能2_护盾装置_生成触发器,0
+700002,4,盖亚技能2_护盾装置_生成触发器,0
+700004,1,盖亚技能3_翻滚_位移,0
+700004,2,盖亚技能3_翻滚_位移,0
+700004,3,盖亚技能3_翻滚_位移,0
+700004,4,盖亚技能3_翻滚_位移,0
+700005,1,Instant Shield Trigger,Shield Absorbs 176 damage. Lasts for 7 Seconds
+700005,2,Instant Shield Trigger,Shield Absorbs 210 damage. Lasts for 7 Seconds
+700005,3,Instant Shield Trigger,Shield Absorbs 244 damage. Lasts for 7 Seconds
+700005,4,Instant Shield Trigger,Shield Absorbs 278 damage. Lasts for 7 Seconds
+700101,1,Shield,Increase Armor by 200 for 7 Seconds
+700101,2,Shield,Increase Armor by 240 for 7 Seconds
+700101,3,Shield,Increase Armor by 280 for 7 Seconds
+700101,4,Shield,Increase Armor by 320 for 7 Seconds
+700102,1,西奥多技能2_防护阵壁_生成触发器,0
+700102,2,西奥多技能2_防护阵壁_生成触发器,0
+700102,3,西奥多技能2_防护阵壁_生成触发器,0
+700102,4,西奥多技能2_防护阵壁_生成触发器,0
+700104,1,西奥多技能3_冲锋_位移,0
+700104,2,西奥多技能3_冲锋_位移,0
+700104,3,西奥多技能3_冲锋_位移,0
+700104,4,西奥多技能3_冲锋_位移,0
+700105,1,西奥多技能2_护盾爆炸_伤害,0
+700105,2,西奥多技能2_护盾爆炸_伤害,0
+700105,3,西奥多技能2_护盾爆炸_伤害,0
+700105,4,西奥多技能2_护盾爆炸_伤害,0
+700106,1,Stun,Enemies who suffer effects of Saisi's exploding shield will be stunned for 1 second
+700106,2,Stun,Enemies who suffer effects of Saisi's exploding shield will be stunned for 1 second
+700106,3,Stun,Enemies who suffer effects of Saisi's exploding shield will be stunned for 1 second
+700106,4,Stun,Enemies who suffer effects of Saisi's exploding shield will be stunned for 1 second
+700107,1,西奥多技能3_冲锋_光环,0
+700107,2,西奥多技能3_冲锋_光环,0
+700107,3,西奥多技能3_冲锋_光环,0
+700107,4,西奥多技能3_冲锋_光环,0
+700108,1,Savage Charge,Enemies hit by Theodore's Charge will be stunned for 1 second
+700108,2,Savage Charge,Enemies hit by Theodore's Charge will be stunned for 1 second
+700108,3,Savage Charge,Enemies hit by Theodore's Charge will be stunned for 1 second
+700108,4,Savage Charge,Enemies hit by Theodore's Charge will be stunned for 1 second
+700201,1,Melody of Death,Enemies hypnotized by Saisi's guitar riff will have their speed reduced by 34% for 5 seconds
+700201,2,Melody of Death,Enemies hypnotized by Saisi's guitar riff will have their speed reduced by 36% for 5 seconds
+700201,3,Melody of Death,Enemies hypnotized by Saisi's guitar riff will have their speed reduced by 38% for 5 seconds
+700201,4,Melody of Death,Enemies hypnotized by Saisi's guitar riff will have their speed reduced by 40% for 5 seconds
+700202,1,逗比技能2_喷射冲击_伤害,0
+700202,2,逗比技能2_喷射冲击_伤害,0
+700202,3,逗比技能2_喷射冲击_伤害,0
+700202,4,逗比技能2_喷射冲击_伤害,0
+700204,1,逗比技能3_滑铲_位移,0
+700204,2,逗比技能3_滑铲_位移,0
+700204,3,逗比技能3_滑铲_位移,0
+700204,4,逗比技能3_滑铲_位移,0
+700205,1,逗比技能1_死亡音律_伤害,0
+700205,2,逗比技能1_死亡音律_伤害,0
+700205,3,逗比技能1_死亡音律_伤害,0
+700205,4,逗比技能1_死亡音律_伤害,0
+700206,1,逗比技能2_喷射冲击_位移,0
+700206,2,逗比技能2_喷射冲击_位移,0
+700206,3,逗比技能2_喷射冲击_位移,0
+700206,4,逗比技能2_喷射冲击_位移,0
+700302,1,琼恩技能3_传送装置_生成,0
+700302,2,琼恩技能3_传送装置_生成,0
+700302,3,琼恩技能3_传送装置_生成,0
+700302,4,琼恩技能3_传送装置_生成,0
+700304,1,翻滚,0
+700304,2,翻滚,0
+700304,3,翻滚,0
+700304,4,翻滚,0
+700305,1,琼恩技能3_传送_归位,0
+700305,2,琼恩技能3_传送_归位,0
+700305,3,琼恩技能3_传送_归位,0
+700305,4,琼恩技能3_传送_归位,0
+700306,1,琼恩技能2_定时震荡,0
+700306,2,琼恩技能2_定时震荡,0
+700306,3,琼恩技能2_定时震荡,0
+700306,4,琼恩技能2_定时震荡,0
+700307,1,Shock Device,Enemies effected by Joan's Shock device will be stunned for 1 second
+700307,2,Shock Device,Enemies effected by Joan's Shock device will be stunned for 1 second
+700307,3,Shock Device,Enemies effected by Joan's Shock device will be stunned for 1 second
+700307,4,Shock Device,Enemies effected by Joan's Shock device will be stunned for 1 second
+700401,1,护士技能1_治疗,0
+700401,2,护士技能1_治疗,0
+700401,3,护士技能1_治疗,0
+700401,4,护士技能1_治疗,0
+700402,1,Hypnotic,Enemies injected with this drug will fall asleep for 4 seconds
+700402,2,Hypnotic,Enemies injected with this drug will fall asleep for 4 seconds
+700402,3,Hypnotic,Enemies injected with this drug will fall asleep for 4 seconds
+700402,4,Hypnotic,Enemies injected with this drug will fall asleep for 4 seconds
+700404,1,Stimulant (Damage Boost),Increase damage dealt by 45% for 2 seconds
+700404,2,Stimulant (Damage Boost),Increase damage dealt by 55% for 2 seconds
+700404,3,Stimulant (Damage Boost),Increase damage dealt by 65% for 2 seconds
+700404,4,Stimulant (Damage Boost),Increase damage dealt by 75% for 2 seconds
+700405,1,兴奋剂（损失生命）,0
+700405,2,兴奋剂（损失生命）,0
+700405,3,兴奋剂（损失生命）,0
+700405,4,兴奋剂（损失生命）,0
+700406,1,Stimulant (Speed Boost),Increase Movement Speed by 20% for 8 seconds
+700406,2,Stimulant (Speed Boost),Increase Movement Speed by 22% for 8 seconds
+700406,3,Stimulant (Speed Boost),Increase Movement Speed by 24% for 8 seconds
+700406,4,Stimulant (Speed Boost),Increase Movement Speed by 26% for 8 seconds
+700501,1,侠客技能1_十字连斩1_伤害,0
+700501,2,侠客技能1_十字连斩1_伤害,0
+700501,3,侠客技能1_十字连斩1_伤害,0
+700501,4,侠客技能1_十字连斩1_伤害,0
+700502,1,侠客技能2_剑气纵横_伤害,0
+700502,2,侠客技能2_剑气纵横_伤害,0
+700502,3,侠客技能2_剑气纵横_伤害,0
+700502,4,侠客技能2_剑气纵横_伤害,0
+700504,1,侠客技能3_魅影绝杀_位移,0
+700504,2,侠客技能3_魅影绝杀_位移,0
+700504,3,侠客技能3_魅影绝杀_位移,0
+700504,4,侠客技能3_魅影绝杀_位移,0
+700505,1,侠客技能1_十字连斩2_伤害,0
+700505,2,侠客技能1_十字连斩2_伤害,0
+700505,3,侠客技能1_十字连斩2_伤害,0
+700505,4,侠客技能1_十字连斩2_伤害,0
+700506,1,侠客技能3_魅影绝杀_光环,0
+700506,2,侠客技能3_魅影绝杀_光环,0
+700506,3,侠客技能3_魅影绝杀_光环,0
+700506,4,侠客技能3_魅影绝杀_光环,0
+700507,1,侠客技能3_魅影绝杀_伤害,0
+700507,2,侠客技能3_魅影绝杀_伤害,0
+700507,3,侠客技能3_魅影绝杀_伤害,0
+700507,4,侠客技能3_魅影绝杀_伤害,0
+700601,1,萝莉技能1_蜘蛛地雷_生成触发器,0
+700601,2,萝莉技能1_蜘蛛地雷_生成触发器,0
+700601,3,萝莉技能1_蜘蛛地雷_生成触发器,0
+700601,4,萝莉技能1_蜘蛛地雷_生成触发器,0
+700602,1,萝莉技能2_召唤炮塔_生成怪物,0
+700602,2,萝莉技能2_召唤炮塔_生成怪物,0
+700602,3,萝莉技能2_召唤炮塔_生成怪物,0
+700602,4,萝莉技能2_召唤炮塔_生成怪物,0
+700604,1,Hide and Seek (Speed Boost),Increase Movement Speed by 15% for 3 seconds
+700604,2,Hide and Seek (Speed Boost),Increase Movement Speed by 18% for 3 seconds
+700604,3,Hide and Seek (Speed Boost),Increase Movement Speed by 21% for 3 seconds
+700604,4,Hide and Seek (Speed Boost),Increase Movement Speed by 24% for 3 seconds
+700605,1,萝莉技能1_蜘蛛地雷_爆炸,0
+700605,2,萝莉技能1_蜘蛛地雷_爆炸,0
+700605,3,萝莉技能1_蜘蛛地雷_爆炸,0
+700605,4,萝莉技能1_蜘蛛地雷_爆炸,0
+700606,1,Invisibility,No one can see you!
+700606,2,Invisibility,No one can see you!
+700606,3,Invisibility,No one can see you!
+700606,4,Invisibility,No one can see you!
+700701,1,比尔技能1_火箭炮_伤害,0
+700701,2,比尔技能1_火箭炮_伤害,0
+700701,3,比尔技能1_火箭炮_伤害,0
+700701,4,比尔技能1_火箭炮_伤害,0
+700702,1,比尔技能2_抓钩_拉回,0
+700702,2,比尔技能2_抓钩_拉回,0
+700702,3,比尔技能2_抓钩_拉回,0
+700702,4,比尔技能2_抓钩_拉回,0
+700704,1,比尔技能3_突进_位移,0
+700704,2,比尔技能3_突进_位移,0
+700704,3,比尔技能3_突进_位移,0
+700704,4,比尔技能3_突进_位移,0
+700705,1,Stun (Grappling Hook),Stuns unit for 1 seconds
+700705,2,Stun (Grappling Hook),Stuns unit for 1 seconds
+700705,3,Stun (Grappling Hook),Stuns unit for 1 seconds
+700705,4,Stun (Grappling Hook),Stuns unit for 1 seconds
+700706,1,Shield (Fearless Advance),Shield Absorbs 50 damage. Lasts for 5 seconds
+700706,2,Shield (Fearless Advance),Shield Absorbs 60 damage. Lasts for 5 seconds
+700706,3,Shield (Fearless Advance),Shield Absorbs 70 damage. Lasts for 5 seconds
+700706,4,Shield (Fearless Advance),Shield Absorbs 80 damage. Lasts for 5 seconds
+700801,1,阿拉伯技能1_沙暴_生成触发器,0
+700801,2,阿拉伯技能1_沙暴_生成触发器,0
+700801,3,阿拉伯技能1_沙暴_生成触发器,0
+700801,4,阿拉伯技能1_沙暴_生成触发器,0
+700802,1,阿拉伯技能2_引力弹_扯回,0
+700802,2,阿拉伯技能2_引力弹_扯回,0
+700802,3,阿拉伯技能2_引力弹_扯回,0
+700802,4,阿拉伯技能2_引力弹_扯回,0
+700804,1,阿拉伯技能3_信仰之跃_位移,0
+700804,2,阿拉伯技能3_信仰之跃_位移,0
+700804,3,阿拉伯技能3_信仰之跃_位移,0
+700804,4,阿拉伯技能3_信仰之跃_位移,0
+700805,1,Trap (Movement Speed Reduction),Quicksand reduces Movement Speed by 40%
+700805,2,Trap (Movement Speed Reduction),Quicksand reduces Movement Speed by 43%
+700805,3,Trap (Movement Speed Reduction),Quicksand reduces Movement Speed by 46%
+700805,4,Trap (Movement Speed Reduction),Quicksand reduces Movement Speed by 50%
+700806,1,Trap (Silence),Quicksand Silences Enemies
+700806,2,Trap (Silence),Quicksand Silences Enemies
+700806,3,Trap (Silence),Quicksand Silences Enemies
+700806,4,Trap (Silence),Quicksand Silences Enemies
+700807,1,阿拉伯技能2_引力弹_伤害,0
+700807,2,阿拉伯技能2_引力弹_伤害,0
+700807,3,阿拉伯技能2_引力弹_伤害,0
+700807,4,阿拉伯技能2_引力弹_伤害,0
+700808,1,Leap of Faith (Speed Reduction),Reduces movement speed of affected enemies by 10%
+700808,2,Leap of Faith (Speed Reduction),Reduces movement speed of affected enemies by 13%
+700808,3,Leap of Faith (Speed Reduction),Reduces movement speed of affected enemies by 16%
+700808,4,Leap of Faith (Speed Reduction),Reduces movement speed of affected enemies by 20%
+700901,1,迪亚比技能1_双枪直射_伤害,0
+700901,2,迪亚比技能1_双枪直射_伤害,0
+700901,3,迪亚比技能1_双枪直射_伤害,0
+700901,4,迪亚比技能1_双枪直射_伤害,0
+700902,1,迪亚比技能2_空中扫射_伤害,0
+700902,2,迪亚比技能2_空中扫射_伤害,0
+700902,3,迪亚比技能2_空中扫射_伤害,0
+700902,4,迪亚比技能2_空中扫射_伤害,0
+700904,1,迪亚比技能3_忍步_位移,0
+700904,2,迪亚比技能3_忍步_位移,0
+700904,3,迪亚比技能3_忍步_位移,0
+700904,4,迪亚比技能3_忍步_位移,0
+700905,1,Air Strafing_Armor,Increases armor by 200 points.
+700905,2,Air Strafing_Armor,Increases armor by 233 points.
+700905,3,Air Strafing_Armor,Increases armor by 266 points.
+700905,4,Air Strafing_Armor,Increases armor by 300 points.
+701001,1,火王技能1_火墙_生成触发器,0
+701001,2,火王技能1_火墙_生成触发器,0
+701001,3,火王技能1_火墙_生成触发器,0
+701001,4,火王技能1_火墙_生成触发器,0
+701002,1,火王技能3_盾罩_生成触发器,0
+701002,2,火王技能3_盾罩_生成触发器,0
+701002,3,火王技能3_盾罩_生成触发器,0
+701002,4,火王技能3_盾罩_生成触发器,0
+701004,1,Oil Barrel,Enemies covered with oil will take increased damage from flame attacks for 10 seconds
+701004,2,Oil Barrel,Enemies covered with oil will take increased damage from flame attacks for 10 seconds
+701004,3,Oil Barrel,Enemies covered with oil will take increased damage from flame attacks for 10 seconds
+701004,4,Oil Barrel,Enemies covered with oil will take increased damage from flame attacks for 10 seconds
+701005,1,Flaming Forcefield,Increases armor by 200 points
+701005,2,Flaming Forcefield,Increase Armor by 240 points
+701005,3,Flaming Forcefield,Increase Armor by 280 points
+701005,4,Flaming Forcefield,Increase Armor by 320 points
+701006,1,火王技能1_火墙_伤害,0
+701006,2,火王技能1_火墙_伤害,0
+701006,3,火王技能1_火墙_伤害,0
+701006,4,火王技能1_火墙_伤害,0
+701007,1,Burnt,"You've been burnt by flaming oil, this debuff will last for 8 seconds."
+701007,2,Burnt,"You've been burnt by flaming oil, this debuff will last for 8 seconds."
+701007,3,Burnt,"You've been burnt by flaming oil, this debuff will last for 8 seconds."
+701007,4,Burnt,"You've been burnt by flaming oil, this debuff will last for 8 seconds."
+701008,1,Flaming Forcefield,You're burning while in the flaming forcefield.
+701008,2,Flaming Forcefield,You're burning while in the flaming forcefield.
+701008,3,Flaming Forcefield,You're burning while in the flaming forcefield.
+701008,4,Flaming Forcefield,You're burning while in the flaming forcefield.
+701009,1,火王技能1_火墙_火,
+701009,2,火王技能1_火墙_火,
+701009,3,火王技能1_火墙_火,
+701009,4,火王技能1_火墙_火,
+701010,1,盾罩_火,
+701010,2,盾罩_火,
+701010,3,盾罩_火,
+701010,4,盾罩_火,
+701011,1,Burning Oil DMG,"A target spilled by burning oil will suffer more DMG by fire attack, last 10s."
+701011,2,Burning Oil DMG,"A target spilled by burning oil will suffer more DMG by fire attack, last 10s."
+701011,3,Burning Oil DMG,"A target spilled by burning oil will suffer more DMG by fire attack, last 10s."
+701011,4,Burning Oil DMG,"A target spilled by burning oil will suffer more DMG by fire attack, last 10s."
+701101,1,Immobilizing Trap,Immobilizes unit for 2 seconds
+701101,2,Immobilizing Trap,Immobilizes unit for 2.5 seconds
+701101,3,Immobilizing Trap,Immobilizes unit for 3 seconds
+701101,4,Immobilizing Trap,Immobilizes unit for 3.5 seconds
+701102,1,女弩技能2_雷霆箭雨_伤害,0
+701102,2,女弩技能2_雷霆箭雨_伤害,0
+701102,3,女弩技能2_雷霆箭雨_伤害,0
+701102,4,女弩技能2_雷霆箭雨_伤害,0
+701104,1,女弩技能3_无畏跳射_位移,0
+701104,2,女弩技能3_无畏跳射_位移,0
+701104,3,女弩技能3_无畏跳射_位移,0
+701104,4,女弩技能3_无畏跳射_位移,0
+701105,1,Immobilizing Trap Trigger,Immobilizes unit for 2 seconds
+701105,2,Immobilizing Trap Trigger,Immobilizes unit for 2.5 seconds
+701105,3,Immobilizing Trap Trigger,Immobilizes unit for 3 seconds
+701105,4,Immobilizing Trap Trigger,Immobilizes unit for 3.5 seconds
+701106,1,Immobilizing Trap Trigger Label,You're unable to move due to the effect of Immobilizing Trap
+701106,2,Immobilizing Trap Trigger Label,You're unable to move due to the effect of Immobilizing Trap
+701106,3,Immobilizing Trap Trigger Label,You're unable to move due to the effect of Immobilizing Trap
+701106,4,Immobilizing Trap Trigger Label,You're unable to move due to the effect of Immobilizing Trap
+701107,1,女弩技能3_无畏跳射_伤害,0
+701107,2,女弩技能3_无畏跳射_伤害,0
+701107,3,女弩技能3_无畏跳射_伤害,0
+701107,4,女弩技能3_无畏跳射_伤害,0
+705101,1,机甲火炮,0
+705101,2,机甲火炮,0
+705101,3,机甲火炮,0
+705101,4,机甲火炮,0
+705102,1,机甲导弹,0
+705102,2,机甲导弹,0
+705102,3,机甲导弹,0
+705102,4,机甲导弹,0
+705103,1,翻滚,0
+705103,2,翻滚,0
+705103,3,翻滚,0
+705103,4,翻滚,0
+705104,1,机甲自爆,0
+705104,2,机甲自爆,0
+705104,3,机甲自爆,0
+705104,4,机甲自爆,0
+705105,1,上机甲,0
+705105,2,上机甲,0
+705105,3,上机甲,0
+705105,4,上机甲,0
+705106,1,下机甲,0
+705106,2,下机甲,0
+705106,3,下机甲,0
+705106,4,下机甲,0
+720001,1,油桶爆炸,0
+720002,1,持续喷火,0
+720003,1,Poison,Deals 30 poison damage per second
+720004,1,Freeze,Reduces Movement Speed by 40%
+720005,1,吸重盘,0
+720006,1,地雷（非技能）,0
+720007,1,雪球_伤害,
+720008,1,闪电_伤害,
+720009,1,沼泽_减速,Movement speed decreased while in swamp
+720010,1,油潭_减速,Movement speed decreased while in oil pool
+720011,1,油潭_叠油,
+720012,1,流沙_减速,Movement speed decreased while in quicksand
+720013,1,地刺_伤害,
+721000,1,手雷爆炸伤害,0
+721001,1,Flashbang,Blinds unit for 5 seconds
+721002,1,燃烧弹爆炸,0
+721003,1,Incendiary Grenade (Stun),Stuns unit for 5 seconds
+721004,1,Incendiary Grenade (Immobilize),Immobilizes unit for 5 seconds
+721005,1,手雷爆炸睡眠,0
+721006,1,油桶火,
+722000,1,微型经验,0
+722001,1,小型经验,0
+722002,1,中型经验,0
+722003,1,大型经验,0
+722004,1,手雷小,0
+722005,1,闪光弹小,0
+722006,1,燃烧弹,0
+722007,1,医疗箱小,0
+722008,1,医疗箱大,0
+722009,1,Shield,Increases Armor by 300 for 20 seconds
+722010,1,Accelerate,Increase Movement Speed by 20% for 20 seconds
+723001,1,混战-生成触发器,0
+723002,1,非混战-生成触发器,0
+723003,1,混战模式-普通掉落触发器,0
+723004,1,掉落手雷,0
+723005,1,掉落血包,0
+723006,1,非混战模式-普通掉落,0
+723007,1,Invisibility,Other units can't see you
+723008,1,Slow Zone,Slow Zone
+723009,1,掉落大血包,0
+730001,1,Increase Hero HP,Max HP +60
+730002,1,Increase Weapon Stability,Stability +10
+730003,1,Increase Hero Armor,Armor +25
+730004,1,Increase Weapon Ammo Capacity,Ammo +4
+730005,1,Increase Weapon Crit Rate,Crit +5
+730006,1,Increase Weapon Damage,Damage +5%
+730007,1,Agility Boost,"Speed +10%, lasts for 3 seconds"
+730008,1,Rampage,"Absorb 100 damage, lasts for 5 seconds"
+730009,1,Adrenaline,"Speed +5%, lasts for 3 seconds"
+730009,2,Adrenaline,"Speed +10%, lasts for 3 seconds"
+730009,3,Adrenaline,"Speed +15%, lasts for 3 seconds"
+730009,4,Adrenaline,"Speed +20%, lasts for 3 seconds"
+730101,1,Increase Weapon Stability,Stability +20
+730102,1,Increase Weapon Accuracy,Accuracy +20
+730103,1,Increase Hero Armor,Armor +25
+730104,1,Increase Hero Movement Speed,Speed +10
+730105,1,Increase Weapon Damage,Damage +5%
+730106,1,Decrease Weapon Reload Time,Reload Time -1 second
+730107,1,Last Resort,"Speed +15%, lasts for 6 seconds"
+730108,1,Counterattack,"Absorb 150 damage, lasts for 5 seconds"
+730109,1,Ensnare (1),"Speed -6%, lasts for 5 seconds"
+730109,2,Ensnare (1),"Speed -7%, lasts for 5 seconds"
+730109,3,Ensnare (1),"Speed -8%, lasts for 5 seconds"
+730109,4,Ensnare (1),"Speed -9%, lasts for 5 seconds"
+730110,1,Ensnare (2),"Attack speed -6%, lasts for 5 seconds"
+730110,2,Ensnare (2),"Attack speed -7%, lasts for 5 seconds"
+730110,3,Ensnare (2),"Attack speed -8%, lasts for 5 seconds"
+730110,4,Ensnare (2),"Attack speed -9%, lasts for 5 seconds"
+730201,1,Increase Hero HP,Max HP +60
+730202,1,Increase Hero Armor,Armor +25
+730203,1,Increase Weapon Range,Range +10%
+730204,1,Increase Hero Movement Speed,Speed +10
+730205,1,Increase Weapon Ammo Capacity,Ammo +3
+730206,1,Increase Weapon Crit Rate,Crit +5
+730207,1,Deadly Ambush,"Damage +10%, lasts for 5 seconds"
+730208,1,Charge Defense,"Armor +75, lasts for 5 seconds"
+730209,1,Bloody Sacrifice,Recover 50 HP
+730209,2,Bloody Sacrifice,Recover 60 HP
+730209,3,Bloody Sacrifice,Recover 70 HP
+730209,4,Bloody Sacrifice,Recover 80 HP
+730301,1,Increase Hero Armor,Armor +25
+730302,1,Increase Hero HP,Max HP +60
+730303,1,Increase Weapon Fire Rate,Fire Rate +6%
+730304,1,Increase Weapon Ammo Capacity,Ammo +4
+730305,1,Increase Weapon Damage,Damage +5%
+730306,1,Increase Hero Movement Speed,Speed +10
+730307,1,Precision,"Penetration +50, lasts for 8 seconds"
+730308,1,Persistence,Eliminate cooldown time for skill after killing an enemy
+730309,1,Resupply (Aura),"Every 8 seconds, nearby friendly units will replenish 1 bullet in the magazine"
+730309,2,Resupply (Aura),"Every 7 seconds, nearby friendly units will replenish 1 bullet in the magazine"
+730309,3,Resupply (Aura),"Every 6 seconds, nearby friendly units will replenish 1 bullet in the magazine"
+730309,4,Resupply (Aura),"Every 5 seconds, nearby friendly units will replenish 1 bullet in the magazine"
+730310,1,Resupply,Replenishes 1 bullet
+730310,2,Resupply,Replenishes 1 bullet
+730310,3,Resupply,Replenishes 1 bullet
+730310,4,Resupply,Replenishes 1 bullet
+730401,1,Increase Hero Movement Speed,Speed +10
+730402,1,Increase Weapon Damage,Damage +10%
+730403,1,Increase Hero HP,Max HP +60
+730404,1,Increase Weapon Penetration Rate,Penetration +20
+730405,1,Increase Hero Armor,Armor +25
+730406,1,Increase Weapon Crit Rate,Crit +5
+730407,1,Healer's Wrath,"Damage +20%, lasts for 5 seconds"
+730408,1,Bulletproof Vest,"Armor +50, lasts for 3 seconds"
+730409,1,Rapid Regeneration,"Speed +30%, lasts for 3 seconds"
+730409,2,Rapid Regeneration,"Speed +33%, lasts for 3 seconds"
+730409,3,Rapid Regeneration,"Speed +36%, lasts for 3 seconds"
+730409,4,Rapid Regeneration,"Speed +40%, lasts for 3 seconds"
+730501,1,Increase Hero HP,Max HP +60
+730502,1,Increase Weapon Stability,Stability +10
+730503,1,Increase Hero Armor,Armor +25
+730504,1,Increase Weapon Accuracy,Accuracy +10
+730505,1,Increase Weapon Damage,Damage +5%
+730506,1,Increase Weapon Penetration Rate,Penetration +20
+730507,1,Blade Mastery,"Damage +30%, lasts for 8 seconds"
+730508,1,Stealth Movement,"Speed +10%, lasts for 5 seconds"
+730509,1,Violent Justice,Cooldown -4 seconds
+730509,2,Violent Justice,Cooldown -4.5 seconds
+730509,3,Violent Justice,Cooldown -5 seconds
+730509,4,Violent Justice,Cooldown -5.5 seconds
+730601,1,Increase Hero HP,Max HP +60
+730602,1,Increase Hero Armor,Armor +25
+730603,1,Increase Weapon Range,Range +10%
+730604,1,Increase Hero Item STR,Item STR +15
+730605,1,Increase Weapon Penetration Rate,Penetration +20
+730606,1,Increase Weapon Crit Rate,Crit +5
+730607,1,Mobile Shield,"Armor +60, lasts for 10 seconds"
+730608,1,Energy Surge,"Crit +30, lasts for 1 second"
+730609,1,Grenade Master,Automatically get a grenade every 10 seconds
+730609,2,Grenade Master,Automatically get a grenade every 9 seconds
+730609,3,Grenade Master,Automatically get a grenade every 8 seconds
+730609,4,Grenade Master,Automatically get a grenade every 7 seconds
+730701,1,Increase Hero HP,Max HP +60
+730702,1,Increase Weapon Fire Rate,Fire Rate +5%
+730703,1,Increase Weapon Ammo Capacity,Ammo +4
+730704,1,Increase Hero Movement Speed,Speed +10
+730705,1,Increase Weapon Range,Range +10%
+730706,1,Increase Weapon Crit Rate,Crit +5
+730707,1,Quick Recovery ,"Restore 50 HP after picking up an EXP badge, the cooldown is 10 seconds."
+730708,1,Crossfire,Crit +15%
+730709,1,Master's Defense,Absorb 48 damage. Lasts for 4 seconds
+730709,2,Master's Defense,Absorb 56 damage. Lasts for 4 seconds
+730709,3,Master's Defense,Absorb 64 damage. Lasts for 4 seconds
+730709,4,Master's Defense,Absorb 72 damage. Lasts for 4 seconds
+730801,1,Increase Weapon Stability,Stability +12
+730802,1,Increase Weapon Damage,Damage +5%
+730803,1,Increase Weapon Accuracy,Accuracy +12
+730804,1,Increase Weapon Penetration Rate,Penetration +20
+730805,1,Increase Hero Armor,Armor +25
+730806,1,Increase Hero Movement Speed,Speed +10
+730807,1,Quicksand,"Fire Rate -30%, lasts for 3 seconds"
+730808,1,Panick Retreat,"Armor -60%, lasts for 5 seconds"
+730809,1,射击加速光环,Teammates' Fire Rate +5%
+730809,2,射击加速光环,Teammates' Fire Rate +7%
+730809,3,射击加速光环,Teammates' Fire Rate +9%
+730809,4,射击加速光环,Teammates' Fire Rate +11%
+730810,1,Rapid Fire,Teammates' Fire Rate +5%
+730810,2,Rapid Fire,Teammates' Fire Rate +7%
+730810,3,Rapid Fire,Teammates' Fire Rate +9%
+730810,4,Rapid Fire,Teammates' Fire Rate +11%
+730901,1,Increase Hero Armor,Armor +25
+730902,1,Increase Hero HP,Max HP +60
+730903,1,Increase Hero Movement Speed,Speed +10
+730904,1,Increase Weapon Fire Rate,Fire Rate +5%
+730905,1,Increase Weapon Crit Rate,Crit +5
+730906,1,Increase Weapon Damage,Damage +5%
+730907,1,Armor Boost,"Armor +70, lasts for 5 seconds"
+730908,1,Fast Volley,"Fire Rate +20%, lasts for 5 seconds"
+730909,1,Morale Boost,Cooldown Time -0.5 seconds
+730909,2,Morale Boost,Cooldown Time -0.6 seconds
+730909,3,Morale Boost,Cooldown Time -0.7 seconds
+730909,4,Morale Boost,Cooldown Time -0.8 seconds
+731001,1,Increase Hero HP,Max HP +60
+731002,1,Decrease Weapon Reload Time,Reload Time -2 second
+731003,1,Increase Hero Movement Speed,Speed +10
+731004,1,Increase Hero Item STR,Item STR +15
+731005,1,Increase Hero Armor,Armor +25
+731006,1,Increase Weapon Damage,Damage +5%
+731007,1,Flammable Oil,"Damage +15%, lasts for 5 seconds"
+731008,1,Grenade Shield,"Armor +100, lasts for 5 seconds"
+731009,1,Unbreakable Courage,"Speed +10%, lasts for 5 seconds"
+731009,2,Unbreakable Courage,"Speed +15%, lasts for 5 seconds"
+731009,3,Unbreakable Courage,"Speed +20%, lasts for 5 seconds"
+731009,4,Unbreakable Courage,"Speed +25%, lasts for 5 seconds"
+731010,1,火焰枪,0
+731010,2,火焰枪,0
+731010,3,火焰枪,0
+731010,4,火焰枪,0
+731101,1,Increase Hero Armor,Armor +25
+731102,1,Increase Weapon Penetration Rate,Penetration +20
+731103,1,Increase Weapon Ammo Capacity,Ammo +4
+731104,1,Increase Weapon Crit Rate,Crit +5
+731105,1,Increase Weapon Accuracy,Accuracy +10
+731106,1,Increase Weapon Damage,Damage +5%
+731107,1,Thrill of the Hunt,"After trapping an enemy, increase accuracy by 10"
+731108,1,Ice Storm,"After being hit with ""Hail of Arrows"", Speed -20%"
+731109,1,Poison Arrow,Deals 20 poison damage per second for 5 seconds
+731109,2,Poison Arrow,Deals 25 poison damage per second for 5 seconds
+731109,3,Poison Arrow,Deals 30 poison damage per second for 5 seconds
+731109,4,Poison Arrow,Deals 35 poison damage per second for 5 seconds
+740001,1,Increase Attack,Damage +1%
+740001,2,Increase Attack,Damage +2%
+740001,3,Increase Attack,Damage +3%
+740001,4,Increase Attack,Damage +4%
+740001,5,Increase Attack,Damage +5%
+740001,6,Increase Attack,Damage +7%
+740001,7,Increase Attack,Damage +9%
+740001,8,Increase Attack,Damage +11%
+740001,9,Increase Attack,Damage +13%
+740001,10,Increase Attack,Damage +15%
+740001,11,Increase Attack,Damage +17%
+740001,12,Increase Attack,Damage +19%
+740001,13,Increase Attack,Damage +21%
+740001,14,Increase Attack,Damage +23%
+740001,15,Increase Attack,Damage +25%
+740002,1,Increase Max HP,Max HP +12
+740002,2,Increase Max HP,Max HP +24
+740002,3,Increase Max HP,Max HP +36
+740002,4,Increase Max HP,Max HP +48
+740002,5,Increase Max HP,Max HP +60
+740002,6,Increase Max HP,Max HP +72
+740002,7,Increase Max HP,Max HP +100
+740002,8,Increase Max HP,Max HP +112
+740002,9,Increase Max HP,Max HP +124
+740002,10,Increase Max HP,Max HP +173
+740002,11,Increase Max HP,Max HP +185
+740002,12,Increase Max HP,Max HP +197
+740002,13,Increase Max HP,Max HP +275
+740002,14,Increase Max HP,Max HP +287
+740002,15,Increase Max HP,Max HP +299
+740003,1,Increase Defense,Armor +6
+740003,2,Increase Defense,Armor +12
+740003,3,Increase Defense,Armor +18
+740003,4,Increase Defense,Armor +24
+740003,5,Increase Defense,Armor +30
+740003,6,Increase Defense,Armor +36
+740003,7,Increase Defense,Armor +42
+740003,8,Increase Defense,Armor +48
+740003,9,Increase Defense,Armor +54
+740003,10,Increase Defense,Armor +60
+740003,11,Increase Defense,Armor +66
+740003,12,Increase Defense,Armor +72
+740003,13,Increase Defense,Armor +78
+740003,14,Increase Defense,Armor +84
+740003,15,Increase Defense,Armor +90
+740004,1,Increase Movement Speed,Speed +5%
+740004,2,Increase Movement Speed,Speed +5%
+740004,3,Increase Movement Speed,Speed +5%
+740004,4,Increase Movement Speed,Speed +5%
+740004,5,Increase Movement Speed,Speed +5%
+740004,6,Increase Movement Speed,Speed +10%
+740004,7,Increase Movement Speed,Speed +10%
+740004,8,Increase Movement Speed,Speed +10%
+740004,9,Increase Movement Speed,Speed +10%
+740004,10,Increase Movement Speed,Speed +10%
+740004,11,Increase Movement Speed,Speed +15%
+740006,1,Increase Range,Range +0.5
+740006,2,Increase Range,Range +0.5
+740006,3,Increase Range,Range +0.5
+740006,4,Increase Range,Range +0.5
+740006,5,Increase Range,Range +0.5
+740006,6,Increase Range,Range +1
+740006,7,Increase Range,Range +1
+740006,8,Increase Range,Range +1
+740006,9,Increase Range,Range +1
+740006,10,Increase Range,Range +1
+740006,11,Increase Range,Range +1.5
+740007,1,Increase Crit,Crit +1
+740007,2,Increase Crit,Crit +2
+740007,3,Increase Crit,Crit +3
+740007,4,Increase Crit,Crit +4
+740007,5,Increase Crit,Crit +5
+740007,6,Increase Crit,Crit +6
+740007,7,Increase Crit,Crit +7
+740007,8,Increase Crit,Crit +8
+740007,9,Increase Crit,Crit +9
+740007,10,Increase Crit,Crit +10
+740007,11,Increase Crit,Crit +11
+740007,12,Increase Crit,Crit +12
+740007,13,Increase Crit,Crit +13
+740007,14,Increase Crit,Crit +14
+740007,15,Increase Crit,Crit +15
+740008,1,Improve Skill,Skill Level +1
+740008,2,Improve Skill,Skill Level +2
+740008,3,Improve Skill,Skill Level +3
+790001,1,复活无敌BUFF,0
+790002,1,中途无敌BUFF,0
+790003,1,翻滚无敌BUFF,0
+801001,1,Earth Crusher - Damage,Earth Crusher
+801002,1,Earth Crusher - Stun,Stunned for 3 Seconds
+801011,1,Whirlwind Blade - Damage,Whirlwind Blade
+801012,1,Whirlwind Blade - Slow,Reduces Speed by 50% for 3 seconds
+801021,1,Quad-Strike,Boss_SkillAttack1_1
+801022,1,Quad-Strike,Boss_SkillAttack1_2
+801023,1,Quad-Strike,Boss_SkillAttack1_3
+801024,1,Quad-Strike,Boss_SkillAttack1_4
+801031,1,Apocalyptic Quake - Damage,Apocalyptic Quake
+801032,1,Windblade - Stun,Stunned for 3 Seconds
+801041,1,Poison Mist,Poison Mist
+801042,1,Poison Mist - Infection,Infected by Poison Mist
+801051,1,Windblade,Windblade
+999999,1,AIBUFF,0

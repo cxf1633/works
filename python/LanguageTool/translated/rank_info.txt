@@ -1,0 +1,23 @@
+$rank_index,name,rank_lv_name
+1,Bronze Ⅲ,Bronze
+2,Bronze Ⅱ,Bronze
+3,Bronze Ⅰ,Bronze
+4,Silver Ⅲ,Silver
+5,Silver Ⅱ,Silver
+6,Silver Ⅰ,Silver
+7,Gold Ⅳ,Gold
+8,Gold Ⅲ,Gold
+9,Gold Ⅱ,Gold
+10,Gold Ⅰ,Gold
+11,Platinum Ⅴ,Platinum
+12,Platinum Ⅳ,Platinum
+13,Platinum Ⅲ,Platinum
+14,Platinum Ⅱ,Platinum
+15,Platinum Ⅰ,Platinum
+16,Diamond Ⅴ,Diamond
+17,Diamond Ⅳ,Diamond
+18,Diamond Ⅲ,Diamond
+19,Diamond Ⅱ,Diamond
+20,Diamond Ⅰ,Diamond
+21,Legend,Legend
+22,Eternal Legend,Legend

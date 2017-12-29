@@ -1,0 +1,9 @@
+$id,name
+100001,Sniper Deathmatch (TEAM)
+100002,Sniper Deathmatch (SOLO)
+100003,Skill Master
+100004,Mystery Mercenaries
+100005,Melee of Tanks
+100006,Li Long's Clone War
+100007,Melee of Swift Fighters
+100008,Strategy without Limits

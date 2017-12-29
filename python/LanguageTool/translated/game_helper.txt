@@ -1,0 +1,14 @@
+$id,helper_name,case_name,case_word
+1,Acquire\nGold,Combat,"Earn gold by participating in: Qualifying Match, Deathmatch, Team Deathmatch, Team Battle, Newbie Area and Entertainment Mode."
+2,Acquire\nGold,Daily Task,Complete daily tasks to earn generous amount of gold.
+3,Acquire\nGold,Lottery,You get big chance to earn a bunch of gold from Lottery.
+4,Acquire\nGold,Legion Competition,You can get plenty of gold from Legion Competition.
+5,Acquire\nGold,Friend's Gift,You will get some gold from friends’ gifts.
+6,Acquire\nGold,Sign-in,Sign-in to get your daily reward!
+7,Acquire\nHeroes,Store,Buy any of your favorite heroes in the store.
+8,Acquire\nHeroes,Lottery,Bring amazing heroes home if you're lucky enough!
+9,Acquire\nHeroes,Level Packs,You can claim level packs once you hit certain levels.
+10,Acquire\nHeroes,Value-added Packs,Sometimes you will find value-added packs in the daily store.
+11,Acquire\nComponents,Craft & Combine,Best way to acquire components.
+12,Acquire\nComponents,Lottery,You get chance to gain components from Lottery.
+13,Acquire\nComponents,Rewards,You can get free components with rewards.

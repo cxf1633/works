@@ -1,0 +1,193 @@
+$id,name
+1001,Daily Arena Mission Refresh Amount
+1002,Daily Arena Mission Refresh Amount
+1003,Daily Arena Mission Refresh Amount
+1004,Daily Arena Mission Refresh Amount
+1005,Daily Arena Mission Refresh Amount
+1006,Daily Arena Mission Refresh Amount
+1007,Daily Arena Mission Refresh Amount
+1008,Daily Arena Mission Refresh Amount
+1009,Daily Arena Mission Refresh Amount
+1010,Daily Arena Mission Refresh Amount
+1011,Daily Arena Mission Refresh Amount
+1012,Daily Arena Mission Refresh Amount
+1013,Daily Arena Mission Refresh Amount
+1014,Daily Arena Mission Refresh Amount
+1015,Daily Arena Mission Refresh Amount
+2001,Gold
+2002,Gold
+2003,Gold
+2004,Gold
+2005,Gold
+2006,Gold
+2007,Gold
+2008,Gold
+2009,Gold
+2010,Gold
+2011,Gold
+2012,Gold
+2013,Gold
+2014,Gold
+2015,Gold
+2016,Gold
+2017,Gold
+2018,Gold
+2019,Gold
+2020,Gold
+2021,Gold
+2022,Gold
+2023,Gold
+2024,Gold
+2025,Gold
+2026,Gold
+2027,Gold
+2028,Gold
+2029,Gold
+2030,Gold
+2031,Gold
+2032,Gold
+2033,Gold
+2034,Gold
+2035,Gold
+2036,Gold
+2037,Gold
+2038,Gold
+2039,Gold
+2040,Gold
+2041,Gold
+2042,Gold
+2043,Gold
+2044,Gold
+2045,Gold
+2046,Gold
+2047,Gold
+2048,Gold
+2049,Gold
+2050,Gold
+2051,Gold
+2052,Gold
+2053,Gold
+2054,Gold
+2055,Gold
+2056,Gold
+2057,Gold
+2058,Gold
+2059,Gold
+2060,Gold
+2061,Gold
+2062,Gold
+2063,Gold
+2064,Gold
+2065,Gold
+2066,Gold
+2067,Gold
+2068,Gold
+2069,Gold
+2070,Gold
+2071,Gold
+2072,Gold
+2073,Gold
+2074,Gold
+2075,Gold
+2076,Gold
+2077,Gold
+2078,Gold
+2079,Gold
+2080,Gold
+2081,Gold
+2082,Gold
+2083,Gold
+2084,Gold
+2085,Gold
+2086,Gold
+2087,Gold
+2088,Gold
+2089,Gold
+2090,Gold
+2091,Gold
+2092,Gold
+2093,Gold
+2094,Gold
+2095,Gold
+2096,Gold
+2097,Gold
+2098,Gold
+2099,Gold
+2100,Gold
+3001,Refresh Legion Store 1 time
+3002,Refresh Legion Store 2 time
+3003,Refresh Legion Store 3 time
+3004,Refresh Legion Store 4 time
+3005,Refresh Legion Store 5 time
+3006,Refresh Legion Store 6 time
+3007,Refresh Legion Store 7 time
+3008,Refresh Legion Store 8 time
+3009,Refresh Legion Store 9 time
+3010,Refresh Legion Store 10 time
+6001,Add Sign-in #1 Fee
+6002,Add Sign-in #2 Fee
+6003,Add Sign-in #3 Fee
+6004,Add Sign-in #4 Fee
+6005,Add Sign-in #5 Fee
+6006,Add Sign-in #6 Fee
+6007,Add Sign-in #7 Fee
+6008,Add Sign-in #8 Fee
+6009,Add Sign-in #9 Fee
+6010,Add Sign-in #10 Fee
+6011,Add Sign-in #11 Fee
+6012,Add Sign-in #12 Fee
+6013,Add Sign-in #13 Fee
+6014,Add Sign-in #14 Fee
+6015,Add Sign-in #15 Fee
+6016,Add Sign-in #16 Fee
+6017,Add Sign-in #17 Fee
+6018,Add Sign-in #18 Fee
+6019,Add Sign-in #19 Fee
+6020,Add Sign-in #20 Fee
+6021,Add Sign-in #21 Fee
+6022,Add Sign-in #22 Fee
+6023,Add Sign-in #23 Fee
+6024,Add Sign-in #24 Fee
+6025,Add Sign-in #25 Fee
+6026,Add Sign-in #26 Fee
+6027,Add Sign-in #27 Fee
+6028,Add Sign-in #28 Fee
+6029,Add Sign-in #29 Fee
+6030,Add Sign-in #30 Fee
+7001,Quality Lottery #1 Fee
+7002,Quality Lottery #2 Fee
+7003,Quality Lottery #3 Fee
+7004,Quality Lottery #4 Fee
+7005,Quality Lottery #5 Fee
+7006,Quality Lottery #6 Fee
+7007,Quality Lottery #7 Fee
+7008,Quality Lottery #8 Fee
+7009,Quality Lottery #9 Fee
+7010,Quality Lottery #10 Fee
+7011,Quality Lottery #11 Fee
+7012,Quality Lottery #12 Fee
+7013,Quality Lottery #13 Fee
+7014,Quality Lottery #14 Fee
+8001,Page 1
+8002,Page 2
+8003,Page 3
+8004,Page 4
+8005,Page 5
+8006,Page 6
+8007,Page 7
+8008,Page 8
+8009,Page 9
+8010,Page 10
+11001,Cost of #1 Legion expansion
+11002,Cost of #2 Legion expansion
+11003,Cost of #3 Legion expansion
+11004,Cost of #4 Legion expansion
+11005,Cost of #5 Legion expansion
+11006,Cost of #6 Legion expansion
+11007,Cost of #7 Legion expansion
+11008,Cost of #8 Legion expansion
+11009,Cost of #9 Legion expansion
+11010,Cost of #10 Legion expansion
+11011,Cost of #11 Legion expansion
+11012,Cost of #12 Legion expansion
+11013,Cost of #13 Legion expansion

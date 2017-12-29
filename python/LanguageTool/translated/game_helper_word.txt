@@ -1,0 +1,5 @@
+$id,word
+1,"Hi, may I help you?"
+2,Check what else you can do today!
+3,Do you want to get stronger? Check this out!
+4,"Captain, I bet you need some guidance."

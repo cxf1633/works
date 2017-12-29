@@ -1,0 +1,135 @@
+$id,name,intro
+920001,Lunch Reward,Every afternoon from 12:00-14:00 you can earn a large Gold reward.
+920002,Dinner Reward,Every evening from 18:00-20:00 you can earn a large Gold reward.
+920003,Daily Login,Log in every day to collect.
+920004,Hard Work,Complete 3 matches
+920005,Achieve victory,Win two matched PVP battles
+920006,First Victory,Win one matched PVP battle
+920007,Unity,Form a team and complete 3 team battles
+920008,Daily Duel,Participate in one Deathmatch combat every day
+920009,Striving Forward,Get 30 kills in a match PVP battle
+920010,Lottery,Draw lottery 1 time
+920011,Legion Contribution,Get 300 Legion Contribution
+920012,Spending Gold,Spend 200 gold
+930011,Battle Domination 1,Get 5 kills in a single matched PVP battle
+930012,Battle Domination 2,Get 10 kills in a single matched PVP battle
+930013,Battle Domination 3,Get 15 kills in a single matched PVP battle
+930014,Battle Domination 4,Get 20 kills in a single matched PVP battle
+930015,Battle Domination 5,Get 25 kills in a single matched PVP battle
+930021,Battle Domination 1,Accumulate 10 kills in matched PVP battles
+930022,Battle Domination 2,Accumulate 20 kills in matched PVP battles
+930023,Battle Domination 3,Accumulate 30 kills in matched PVP battles
+930024,Battle Domination 4,Accumulate 40 kills in matched PVP battles
+930025,Battle Domination 5,Accumulate 50 kills in matched PVP battles
+930031,Master of War 1,Kill 2 opponents in a row in a matched PVP battle
+930032,Master of War 2,Kill 4 opponents in a row in a matched PVP battle
+930033,Master of War 3,Kill 6 opponents in a row in a matched PVP battle
+930041,Peak Performance 1,Achieve Double Kill 1 time in matched combats
+930042,Peak Performance 2,Achieve Triple Kill 1 time in matched combats
+930043,Peak Performance 3,Achieve Quadra Kill 1 time in matched combats
+930051,Top of the Charts 1,Reach the top 3 for 1 time
+930052,Top of the Charts 2,Reach the top 3 for 2 times
+930053,Top of the Charts 3,Reach the top 3 for 3 times
+930057,Champion 1,Reach 1st place 1 time
+930061,Grenade Master 1,Use Heavy Duty Grenades 2 times during matched combats
+930062,Grenade Master 2,Use Heavy Duty Grenades 4 times during matched combats
+930063,Grenade Master 3,Use Heavy Duty Grenades 6 times during matched combats
+930064,Grenade Master 4,Use Heavy Duty Grenades 8 times during matched combats
+930065,Grenade Master 5,Use Heavy Duty Grenades 10 times during matched combats
+930071,Blinding Light 1,Use Flashbangs 2 times during matched combats
+930072,Blinding Light 2,Use Flashbangs 4 times during matched combats
+930073,Blinding Light 3,Use Flashbangs 6 times during matched combats
+930074,Blinding Light 4,Use Flashbangs 8 times during matched combats
+930075,Blinding Light 5,Use Flashbangs 10 times during matched combats
+930081,Rapid Upgrade 1,Reach level 3 in a deathmatch combat
+930082,Rapid Upgrade 2,Reach level 5 in a deathmatch combat
+930083,Rapid Upgrade 3,Reach level 8 in a deathmatch combat
+930084,Rapid Upgrade 4,Reach level 12 in a deathmatch combat
+930085,Rapid Upgrade 5,Reach level 16 in a deathmatch combat
+930091,Survivor 1,Survive for 30 seconds without being killed in a matched combat
+930092,Survivor 2,Survive for 45 seconds without being killed in a matched combat
+930093,Survivor 3,Survive for 60 seconds without being killed in a matched combat
+930094,Survivor 4,Survive for 75 seconds without being killed in a matched combat
+930095,Survivor 5,Survive for 90 seconds without being killed in a matched combat
+930101,Damage Dealer 1,Deal at least 1000 damage in a single matched combat
+930102,Damage Dealer 2,Deal at least 2000 damage in a single matched combat
+930103,Damage Dealer 3,Deal at least 3000 damage in a single matched combat
+930104,Damage Dealer 4,Deal at least 4000 damage in a single matched combat
+930105,Damage Dealer 5,Deal at least 6000 damage in a single matched combat
+930111,Indestructable 1,Absorb at least 1000 damage in a single matched combat
+930112,Indestructable 2,Absorb at least 2000 damage in a single matched combat
+930113,Indestructable 3,Absorb at least 3000 damage in a single matched combat
+930114,Indestructable 4,Absorb at least 4000 damage in a single matched combat
+930115,Indestructable 5,Absorb at least 6000 damage in a single matched combat
+930131,Assault Expert 1,Kill 5 enemies by using Gaia (not including entertainment mode)
+930132,Assault Expert 2,Kill 10 enemies by using Gaia (not including entertainment mode)
+930133,Assault Expert 3,Kill 15 enemies by using Gaia (not including entertainment mode)
+930134,Assault Expert 4,Kill 20 enemies by using Gaia (not including entertainment mode)
+930135,Assault Expert 5,Kill 25 enemies by using Gaia (not including entertainment mode)
+930141,Demolition Girl 1,Kill 5 enemies by using Catherine (not including entertainment mode)
+930142,Demolition Girl 2,Kill 10 enemies by using Catherine (not including entertainment mode)
+930143,Demolition Girl 3,Kill 15 enemies by using Catherine (not including entertainment mode)
+930144,Demolition Girl 4,Kill 20 enemies by using Catherine (not including entertainment mode)
+930145,Demolition Girl 5,Kill 25 enemies by using Catherine (not including entertainment mode)
+930151,Precision Sniper 1,Kill 5 enemies by using Joan (not including entertainment mode)
+930152,Precision Sniper 2,Kill 10 enemies by using Joan (not including entertainment mode)
+930153,Precision Sniper 3,Kill 15 enemies by using Joan (not including entertainment mode)
+930154,Precision Sniper 4,Kill 20 enemies by using Joan (not including entertainment mode)
+930155,Precision Sniper 5,Kill 25 enemies by using Joan (not including entertainment mode)
+930161,DPS Master 1,Kill 5 enemies by using Joan (not including entertainment mode)
+930162,DPS Master 2,Kill 10 enemies by using Joan (not including entertainment mode)
+930163,DPS Master 3,Kill 15 enemies by using Joan (not including entertainment mode)
+930164,DPS Master 4,Kill 20 enemies by using Joan (not including entertainment mode)
+930165,DPS Master 5,Kill 25 enemies by using Joan (not including entertainment mode)
+930171,Machine Gunner 1,Kill 5 enemies by using Theodor (not including entertainment mode)
+930172,Machine Gunner 2,Kill 10 enemies by using Theodor (not including entertainment mode)
+930173,Machine Gunner 3,Kill 15 enemies by using Theodor (not including entertainment mode)
+930174,Machine Gunner 4,Kill 20 enemies by using Theodor (not including entertainment mode)
+930175,Machine Gunner 5,Kill 25 enemies by using Theodor (not including entertainment mode)
+930181,Adept Healer 1,Kill 5 enemies by using Fox (not including entertainment mode)
+930182,Adept Healer 2,Kill 10 enemies by using Fox (not including entertainment mode)
+930183,Adept Healer 3,Kill 15 enemies by using Fox (not including entertainment mode)
+930184,Adept Healer 4,Kill 20 enemies by using Fox (not including entertainment mode)
+930185,Adept Healer 5,Kill 25 enemies by using Fox (not including entertainment mode)
+930191,Blade Master 1,Kill 5 enemies by using Li Long (not including entertainment mode)
+930192,Blade Master 2,Kill 10 enemies by using Li Long (not including entertainment mode)
+930193,Blade Master 3,Kill 15 enemies by using Li Long (not including entertainment mode)
+930194,Blade Master 4,Kill 20 enemies by using Li Long (not including entertainment mode)
+930195,Blade Master 5,Kill 25 enemies by using Li Long (not including entertainment mode)
+930201,Killing Machine 1,Kill 5 enemies by using Logan (not including entertainment mode)
+930202,Killing Machine 2,Kill 10 enemies by using Logan (not including entertainment mode)
+930203,Killing Machine 3,Kill 15 enemies by using Logan (not including entertainment mode)
+930204,Killing Machine 4,Kill 20 enemies by using Logan (not including entertainment mode)
+930205,Killing Machine 5,Kill 25 enemies by using Logan (not including entertainment mode)
+930211,Control Master 1,Kill 5 enemies by using Amir (not including entertainment mode)
+930212,Control Master 2,Kill 10 enemies by using Amir (not including entertainment mode)
+930213,Control Master 3,Kill 15 enemies by using Amir (not including entertainment mode)
+930214,Control Master 4,Kill 20 enemies by using Amir (not including entertainment mode)
+930215,Control Master 5,Kill 25 enemies by using Amir (not including entertainment mode)
+930221,Taste of Combat,Complete 3 combats (not including boss mode)
+930231,First Victory,Win 1 matched combat
+930232,Back to Back,Win 2 matched combats
+930241,Brothers-in-arms 1,Form a team with friends and carry out 1 matched combat
+930242,Brothers-in-arms 2,Form a team with friends and carry out 3 matched combats
+930251,Fire Burning 1,Use Burning Bombs 2 times during matched combats
+930252,Fire Burning 2,Use Burning Bombs 4 times during matched combats
+930253,Fire Burning 3,Use Burning Bombs 6 times during matched combats
+930254,Fire Burning 4,Use Burning Bombs 8 times during matched combats
+930255,Fire Burning 5,Use Burning Bombs 10 times during matched combats
+930261,Harvest Expert 1,Kill 5 enemies by using Goro (not including entertainment mode)
+930262,Harvest Expert 2,Kill 10 enemies by using Goro (not including entertainment mode)
+930263,Harvest Expert 3,Kill 15 enemies by using Goro (not including entertainment mode)
+930264,Harvest Expert 4,Kill 20 enemies by using Goro (not including entertainment mode)
+930265,Harvest Expert 5,Kill 25 enemies by using Goro (not including entertainment mode)
+930271,Winning Streak,Win 3 times in a row! Custom mode and Entertainment mode will not be counted.
+930281,I'm MVP,Earn a MVP! Custom mode and Entertainment mode will not be counted.
+930291,Fire Controller 1,Kill 5 enemies by using FireKing (not including entertainment mode)
+930292,Fire Controller 2,Kill 10 enemies by using FireKing (not including entertainment mode)
+930293,Fire Controller 3,Kill 15 enemies by using FireKing (not including entertainment mode)
+930294,Fire Controller 4,Kill 20 enemies by using FireKing (not including entertainment mode)
+930295,Fire Controller 5,Kill 25 enemies by using FireKing (not including entertainment mode)
+930301,Talented Hunter 1,Kill 5 enemies by using Nasha (not including entertainment mode)
+930302,Talented Hunter 2,Kill 10 enemies by using Nasha (not including entertainment mode)
+930303,Talented Hunter 3,Kill 15 enemies by using Nasha (not including entertainment mode)
+930304,Talented Hunter 4,Kill 20 enemies by using Nasha (not including entertainment mode)
+930305,Talented Hunter 5,Kill 25 enemies by using Nasha (not including entertainment mode)

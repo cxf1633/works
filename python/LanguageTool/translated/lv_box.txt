@@ -1,0 +1,10 @@
+$require_lv,intro
+5,Available at level 5
+10,Available at level 10
+15,Available at level 15
+20,Available at level 20
+25,Available at level 25
+30,Available at level 30
+40,Available at level 40
+50,Available at level 50
+60,Available at level 60

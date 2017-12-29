@@ -1,0 +1,161 @@
+$id,title,word_para
+1002,Deathmatch,"1. Deathmatch is a mode where 12 people engage in a free-for-all and everyone is an enemy. 
+2. Every round of Deathmatch lasts 10 minutes. Once it ends, players will be ranked on their Battle Score. The higher their rank, the better the rewards. 
+3. Battle Scores are increased through kills and grabbing EXP Badges. Players who get more kills will earn a higher Battle Score. 
+4. Kill enemies and grab EXP Badges to increase your Battle Score. Every time you increase it 3 levels, you'll get to choose a Talent. 
+5. After the battle has gone on for 5 minutes, a power vehicle will randomly appear on the map - the Mech. 
+6. If the player's hero dies, they will receive a punishment: Some EXP and Battle Score will be deducted."
+1003,Newbie Area,"1. Auto-aiming available in this mode. Tap the right joystick to aim at the opponent automatically.
+2. Every round of Deathmatch lasts 10 minutes. Once it ends, players will be ranked on their Battle Score. The higher their rank, the better the rewards. 
+3. Battle Scores are increased through kills and grabbing EXP Badges. Players who get more kills will earn a higher Battle Score. 
+4. Kill enemies and grab EXP Badges to increase your Battle Score. Every time you increase it 3 levels, you'll get to choose a Talent. 
+5. After the battle has gone on for 5 minutes, a power vehicle will randomly appear on the map - the Mech. 
+6. If the player's hero dies, they will receive a punishment: Some EXP and Battle Score will be deducted.
+7. The rewards in this mode is halved compare to normal Deathmatch."
+1004,Team Mode,"1. Team Mode is a 5v5 battle. Two teams go head-to-head and each team has 5 members. 
+2. Victory Condition: Team Kills reach 50. 
+3. In this mode, the same hero can only be chosen a maximum of 2 times for the same camp."
+1005,Burst Mode,"1. There are 2 camps named Dawn of Darkness and Hand of God.
+2. The Dawn of Darkness will win the game after achieving any of the following requirements.
+- Kill all opponents;
+- C4 explodes.
+3. The Hand of God will win the game after achieving any of the following requirements.
+- Kill all opponents;
+- C4 didn't explode before the battle ends;
+- C4 defused;
+4. If you die, you're won't be revived until next round.
+5. C4 will drop if the carrier dies, and it can be picked up by other teammates.
+6. Best of five sets.
+7. The same hero can not be chosen more than 2 times in a same camp."
+1006,Control Mode,"1. The target for control mode battle is to control and collect enough resources to win the battle.
+2. The players will be separated to Red and Blue camp.
+3. There are 2 kinds of resources: one-time resource and fixed resource. One-time resource provides certain resource points and will disappear once it's occupied. Resources will refresh randomly on the map. Fixed resources provide continuous resource points after being occupied.
+4. How to occupy resource: get into the effective area of the resource, and you will get the resource for your camp automatically. The speed of occupying resource depends one the number of players in a same camp involved in the effective area.
+5. If the progress bar reaches the end, then the camp with the same color as the end point will own the resource.
+6. The fixed resource may be seized by other camp after being occupied, so you got to protect it.
+7. The camp that collects 8000 resource points first wins the battle.
+8.  The same hero can not be chosen more than 2 times in a same camp."
+1007,Boss Rules,"1. Boss Mode involves a 5-person team battling a giant monster. 
+2. This mode lasts for 10 minutes. If the boss is killed in time, the battle will be won. 
+3. If the team can't kill the boss within 10 minutes, the battle will be lost. 
+4. If you die in Boss mode you can respawn an unlimited number of times, but every respawn will extend the waiting time for the next one. 
+5. After the boss is killed, different scores will be assigned based on output, deaths and battle time. The higher the score, the greater the rewards."
+1008,Team Deathmatch,"1. For Team Deathmatch, 4 teams battle each other. There are 4 teams of 3 people each. 
+2. Every round of Team Chaos Battle lasts 10 minutes. Once it ends, players will be ranked on their Battle Score. The higher their rank, the better the rewards. 
+3. Battle Scores are increased through kills and grabbing EXP Badges. Players who get more kills will earn a higher Battle Score. 
+4. Kill enemies and grab EXP Badges to increase your Battle Score. Every time you increase it 3 levels, you'll get to choose a Talent. 
+5. After the battle has gone on for 5 minutes, a power vehicle will randomly appear on the map - the Mech. 
+6. If the player's hero dies, they will receive a punishment: Some EXP and Battle Score will be deducted."
+2001,Sniper Deathmatch (TEAM),"1. Only Joan, Fox and Nasha are available in this mode.
+2. Team Battle mode. Map: Ancient Ruins. First team to 50 kills wins."
+2002,Sniper Deathmatch (SOLO),"1. Only Joan, Fox and Nasha are available in this mode.
+2. Deathmatch mode. Map: Military Base."
+2003,Skill Master,"1. Only Li Long and Goro are available in this mode.
+2. The DMG of normal attack will be reduced, and skill DMG will be increased. Cooldown of skills will be shortened.
+3. Deathmatch mode. Map: CV – Rear"
+2004,Mystery Mercenaries,"1. If you die, you will switch to a different random hero and respawn;
+2. Team Battle mode. Map: CV - Middle. First team to 50 kills wins."
+2005,Melee of Tanks,"1. Only Theodore, Logan and FireKing are available in this mode.
+2. Deathmatch mode. Map: Desert Stronghold."
+2006,Li Long's Clone War,"1. Can only use Li Long as you character.
+2. The DMG of normal attack will be reduced, and skill DMG will be increased. Furthermore, the CD of skills will be shorten.
+3. Team Battle mode. Map: Military Base. First team to 50 kills wins."
+2007,Melee of Swift Fighters,"1. Only Saisi, Li Long and Goro are available in this mode.
+2. Deathmatch mode. Map: CV – Rear."
+2008,Unlimited Deathmatch,"1. If you die, you will switch to a different random hero and respawn;
+2. Deathmatch mode. Map: CV – Rear"
+2009,Strategy without Limits,"1. This is a duel where you have the freedom to set your lineup.
+2. If you die, you can choose a hero to respawn as.
+3. Control mode. Map: Frozen Wasteland. 2: First to get 8,000 Resource Pts wins."
+3001,Diamond Lottery,"1. Spend 60 diamonds to buy a lv.1 component, and draw diamond lottery once.
+2. The heroes and skins you already owned will not be drawn.
+3. Each draw brings you 1 luck point, if your points reach 200, you will definitely get a rare item from the new draw. If rare item you drew is a hero or skin which you already have, it will be exchanged to 5 heroes pcs or skin pcs automatically. The luck points will reset after you got the item with full luck points.
+4. The rewards in the Lottery will be refreshed regularly."
+3002,Ticket Lottery,"1. Spend 60 tickets to buy a lv.1 component, and draw ticket lottery once.
+2. The heroes and skins you already owned will not be drawn.
+3. Each draw brings you 1 luck point, if your points reach 300, you will definitely get a rare item from the new draw. If rare item you drew is a hero or skin which you already have, it will be exchanged to 5 heroes pcs or skin pcs automatically. The luck points will reset after you got the item with full luck points.
+4. The rewards in the Lottery will be refreshed regularly."
+4001,Corps Basic Rules,"1. Players who reach Lv. 20 will unlock the Legions system. 
+2. It costs 1,000 Tickets to create a Legion. 
+3. Initially, the Legion's roster is limited to 20 people where 1 person is designated as the Chief and 2 others are designated as Vice Chiefs. 
+4. Corps members can use Tickets to expand their roster. As the roster maximum goes up, more Vice Chiefss can be added."
+4002,Earning Legion Contribution,"Methods to earn Legion Contribution Points:
+1. Joining qualifying match battles will grant you contribution points. You'll get 100 points if you win the battle and 50 point if you failed.
+2. Joining Deathmatch and getting ranked as top 3 will bring you 50 contribution points.
+3. Joining Team Deathmatch combats, the members of rank 2 teams will get 50 points.
+4. Each Matching Battle brings you 30 contribution points.
+5. The point you will get from each combat of Entertainment Mode will be halved compared to normal modes.
+6. You'll get 1 contribution point for every 10 tickets consumed.
+7. You'll get 10 contribution points by signing up in Legion.
+The daily ceiling of contribution points is 4000.
+If a player quits the legion, his contribution record of current week and season will be deleted. "
+4003,Corps Merit Level,"1. The Legion Merit Level signifies the glorious history of the Legion. 
+2. Every time a Legion member earns Contributions, the Legion Merit EXP will increase by 1. Once it becomes full, the Legion can level up. 
+3. The Legion Merit Level is maintained for a long time."
+4004,Legion Ranking,"Weekly Ranking:
+Statistics for legion contribution is calculated at 5:00 AM (server time) each Monday, all the players in a legion will get corresponding rewards.
+- 1st place Legion: 1500 gold for each member
+- 2nd place Legion: 1000 gold for each member
+- 3rd place Legion: 700 gold for each member
+- 4-10 place Legions: 600 gold for each member
+- 11-50 place Legions: 500 gold for each member
+- Unranked Legions: 150 gold for each member
+
+Season Ranking:
+Statistics for legion contribution is calculated at 5:00 AM (server time) on the first day of each month, all the players in a legion will get corresponding rewards.
+- 1st place Legion: 1000 diamonds for each member
+- 2nd place Legion: 700 gold for each member
+- 3rd place Legion: 500 gold for each member
+- 4-10 place Legions: 400 gold for each member
+- 11-50 place Legions: 300 gold for each member
+- Unranked Legions: 100 gold for each member
+The contribution record will be deleted after the season ends."
+5001,Component Combination Rules,"2 lv.1 components can be combined into 1 random lv.1 component, plus 2 extra component fragments.
+2 lv.2 components can be combined into 1 random lv.2 component, plus 10 extra component fragments.
+2 lv.3 components can be combined into 1 random lv.3 component, plus 50 extra component fragments.
+2 lv.4 components can be combined into 1 random lv.4 component, plus 200 extra component fragments.
+2 lv.5 components can be combined into 1 random lv.5 component, plus 800 extra component fragments.
+5 lv.1 components can be combined into 1 random lv.2 component, plus 8 extra component fragments.
+5 lv.2 components can be combined into 1 random lv.3 component, plus 40 extra component fragments.
+5 lv.3 components can be combined into 1 random lv.4 component, plus 160 extra component fragments.
+5 lv.4 components can be combined into 1 random lv.5 component, plus 640 extra component fragments."
+6001,Rules of Qualifying Match,"1. Qualifying Match Season:
+Each season lasts for 1 month, the players will be ranked according to their performance, and be rewarded by the highest rank they achieved for the current season.
+2. To join qualifying match, you have to get at least 5 heroes.
+3. Ranking intro：
+- There are 6 tiers of ranks called Bronze, Silver, Gold, Platinum, Diamond, and Legend.
+- The tiers of Bronze and Silver will be divided into 3 levels, Gold will be devided to 4 levels, and 5 levels for Platinum and Diamond.
+- All the Legend players will be ranked according to the stars they get.
+4. Rewards：
+- Legend: 3000 Diamonds
+- Diamond: 2000 Diamonds
+- Platinum: 1500 Diamonds
+- Gold: 1000 Diamonds
+- Silver: 500 Diamonds
+- Bronze: 300 Diamonds
+5. When your stars are full, you'll be leveled up or ranked up with the winning of next combat; and when your stars are empty, your level or rank will be downgraded with the loss of next combat.
+6. Party: you can't team up with other players if the gap between you is bigger than 1 tier.
+7. Winning streak brings you extra stars.
+8. Legend:
+- Legend ranked players will be level up once they get 50 stars.
+- 1 star will be deducted automatically if Legend ranked players did not join qualifying matches for 7 days.
+- The top 50 Legend ranked players will be entitled as Eternal Legend, this title refreshes every day on 5:00 AM."
+7001,Rules of Legion Battle,"1. Open time: 20:00 - 22:00 PM for each Friday and Saturday.
+2. Battle intro:
+- Legion Battle gets 2 combat methods of 5V5 and Team Deathmatch.
+- There are 2 5-men teams fighting in 5V5 combat, and the combat modes include Team Battle, Burst Mode and Control Mode.
+- There are 4 3-men teams fighting in Team Deathmatch combat. The combat will last for 10 mins, and the teams will be ranked according to the score they acquired in the combat.
+3. Matching rule:
+- The combat will only start after all the slots are filled.
+- There are no restriction between teammates, and you'll match up the opponents with similar power.
+4. Rewards:
+- You will only get reward from your first 5 legion battles every week.
+- Everyone will be awarded according to the battle result.
+- If you win 5v5 battle: each player will get 50 score of legion battle and 600 legion contribution points.
+-  If you lose 5v5 battle: each player will get 20 score of legion battle and 300 legion contribution points.
+- 1st place of Team Deathmatch combat: each player will get 50 score of legion battle and 600 legion contribution points.
+- 2nd place of Team Deathmatch combat: each player will get 40 score of legion battle and 400 legion contribution points.
+- 3rd place of Team Deathmatch combat: each player will get 30 score of legion battle and 300 legion contribution points.
+- 4th place of Team Deathmatch combat: each player will get 20 score of legion battle and 200 legion contribution points.
+5. Legion Battle Score will get exchanged to Legion Contribution automatically with 1:10 rate.
+6. Legion Contribution is the currency for Legion Store."

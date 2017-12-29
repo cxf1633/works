@@ -1,0 +1,142 @@
+$id,name,sub_name
+11021,Hero Shop,0
+11022,Hero Shop,0
+11031,Hero Shop,0
+11041,Hero Shop,0
+11042,Hero Shop,0
+11051,Hero Shop,0
+11052,Hero Shop,0
+11061,Hero Shop,0
+11062,Hero Shop,0
+11071,Hero Shop,0
+11081,Hero Shop,0
+11082,Hero Shop,0
+11091,Hero Shop,0
+11101,Hero Shop,0
+11102,Hero Shop,0
+11111,Hero Shop,0
+12001,Skin Shop,0
+12002,Skin Shop,0
+12003,Skin Shop,0
+12004,Skin Shop,0
+12005,Skin Shop,0
+12006,Skin Shop,0
+12007,Skin Shop,0
+12008,Skin Shop,0
+12009,Skin Shop,0
+12010,Skin Shop,0
+12011,Skin Shop,0
+15001,Daily Needs,0
+15002,Daily Needs,0
+15003,Daily Needs,0
+15004,Daily Needs,0
+15005,Daily Needs,0
+15006,Daily Needs,0
+15007,Daily Needs,0
+15008,Daily Needs,0
+15009,Daily Needs,0
+15010,Daily Needs,0
+15011,Daily Needs,0
+15012,Daily Needs,0
+15013,Daily Needs,0
+15014,Daily Needs,0
+15015,Daily Needs,0
+16001,Corps Store,Item
+16002,Corps Store,Item
+16003,Corps Store,Item
+16004,Corps Store,Item
+16005,Corps Store,Item
+16006,Corps Store,Item
+16007,Corps Store,Item
+16008,Corps Store,Item
+16009,Corps Store,Avatar Frame
+17001,Part,0
+17002,Part,0
+17003,Part,0
+17004,Part,0
+17005,Part,0
+17006,Part,0
+17007,Part,0
+17008,Part,0
+17009,Part,0
+17010,Part,0
+17011,Part,0
+17012,Part,0
+17013,Part,0
+17014,Part,0
+17015,Part,0
+17016,Part,0
+17017,Part,0
+17018,Part,0
+17019,Part,0
+17020,Part,0
+17021,Part,0
+17022,Part,0
+17023,Part,0
+17024,Part,0
+17025,Part,0
+17026,Part,0
+17027,Part,0
+17028,Part,0
+17029,Part,0
+17030,Part,0
+17031,Part,0
+17032,Part,0
+17033,Part,0
+17034,Part,0
+17035,Part,0
+17036,Part,0
+17037,Part,0
+17038,Part,0
+17039,Part,0
+17040,Part,0
+17041,Part,0
+17042,Part,0
+17043,Part,0
+17044,Part,0
+17045,Part,0
+17046,Part,0
+17047,Part,0
+17048,Part,0
+17049,Part,0
+17050,Part,0
+17051,Part,0
+17052,Part,0
+17053,Part,0
+17054,Part,0
+17055,Part,0
+17056,Part,0
+17057,Part,0
+17058,Part,0
+17059,Part,0
+17060,Part,0
+17061,Part,0
+17062,Part,0
+17063,Part,0
+17064,Part,0
+17065,Part,0
+17066,Part,0
+17067,Part,0
+17068,Part,0
+17069,Part,0
+17070,Part,0
+17071,Part,0
+17072,Part,0
+17073,Part,0
+17074,Part,0
+17075,Part,0
+17076,Part,0
+17077,Part,0
+17078,Part,0
+17079,Part,0
+17080,Part,0
+17081,Part,0
+17082,Part,0
+17083,Part,0
+17084,Part,0
+17085,Part,0
+17086,Part,0
+17087,Part,0
+17088,Part,0
+17089,Part,0
+17090,Part,0

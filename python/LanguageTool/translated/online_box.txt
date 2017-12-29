@@ -1,0 +1,7 @@
+$require_time,condition_intro
+300,Available in 5 mins
+600,Available in 10 mins
+900,Available in 15 mins
+1800,Available in 30 mins
+3600,Available in 1 hour
+7200,Available in 2 hours

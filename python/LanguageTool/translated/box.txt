@@ -1,0 +1,107 @@
+$box_id,name,intro
+400001,Level 1 Component Chest,Open to get a random Level 1 Component
+400002,Level 2 Component Chest,Open to get a random Level 2 Component
+400003,Level 3 Component Chest,Open to get a random Level 3 Component
+400004,Level 4 Component Chest,Open to get a random Level 4 Component
+400005,Level 5 Component Chest,Open to get a random Level 5 Component
+400006,Level 2 Random Component Chest,Open to get a random component up to Level 2
+400007,Level 3 Random Component Chest,Open to get a random component up to Level 3
+400008,Level 4 Random Component chest,Open to get a random component up to Level 4
+400009,Level 5 Random Component Chest,Open to get a random component up to Level 5
+410001,Level 1 Boss Reward Chest,Reward for getting an SSS rating in a Boss battle
+410002,Level 2 Boss Reward Chest,Reward for getting an SS rating in a Boss battle
+410003,Level 3 Boss Reward Chest,Reward for getting an S rating in a Boss battle
+410004,Level 4 Boss Reward Chest,Reward for getting an A rating in a Boss battle
+410005,Level 5 Boss Reward Chest,Reward for getting an B rating in a Boss battle
+410006,Level 6 Boss Reward Chest,Reward for getting an C rating in a Boss battle
+411001,Bronze Tier Chest,The reward for the players whose best tier was Bronze for last season.
+411002,Silver Tier Chest,The reward for the players whose best tier was Silver for last season.
+411003,Gold Tier Chest,The reward for the players whose best tier was Gold for last season.
+411004,Platinum Tier Chest,The reward for the players whose best tier was Platinum for last season.
+411005,Diamond Tier Chest,The reward for the players whose best tier was Diamond for last season.
+411006,Legend Tier Chest,The reward for the players whose best tier was Legend for last season.
+420001,Hero Trial Chest,Open to get a random Hero Trial Card
+420002,Skin Trial Chest,Open to get a random Skin Trial Card
+420003,Hero Trial Chest - Gaia,Open to get a trial card of Gaia for 1-3 days randomly.
+420004,Hero Trial Chest - Theodore,Open to get a trial card of Theodore for 1-3 days randomly.
+420005,Hero Trial Chest - Saisi,Open to get a trial card of Saisi for 1-3 days randomly.
+420006,Hero Trial Chest - Joan,Open to get a trial card of Joan for 1-3 days randomly.
+420007,Hero Trial Chest - Fox,Open to get a trial card of Fox for 1-3 days randomly.
+420008,Hero Trial Chest - Li Long,Open to get a trial card of Li Long for 1-3 days randomly.
+420009,Hero Trial Chest - Catherine,Open to get a trial card of Catherine for 1-3 days randomly.
+420010,Hero Trial Chest - Logan,Open to get a trial card of Logan for 1-3 days randomly.
+420011,Hero Trial Chest - Amir,Open to get a trial card of Amir for 1-3 days randomly.
+420012,Hero Trial Chest - Goro,Open to get a trial card of Goro for 1-3 days randomly.
+420013,Hero Trial Chest - FireKing,Open to get a trial card of FireKing for 1-3 days randomly.
+420014,Hero Trial Chest - Nasha,Open to get a trial card of Nasha for 1-3 days randomly.
+420015,Skin Trial Chest - Gaia,Open to get a skin trial card of Gaia for 1-3 days randomly.
+420016,Skin Trial Chest - Theodore,Open to get a skin trial card of Theodore for 1-3 days randomly.
+420017,Skin Trial Chest - Saisi,Open to get a skin trial card of Saisi for 1-3 days randomly.
+420018,Skin Trial Chest - Joan,Open to get a skin trial card of Joan for 1-3 days randomly.
+420019,Skin Trial Chest - Fox,Open to get a skin trial card of Fox for 1-3 days randomly.
+420020,Skin Trial Chest - Li Long,Open to get a skin trial card of Li Long for 1-3 days randomly.
+420021,Skin Trial Chest - Catherine,Open to get a skin trial card of Catherine for 1-3 days randomly.
+420022,Skin Trial Chest - Logan,Open to get a skin trial card of Logan for 1-3 days randomly.
+420023,Skin Trial Chest - Amir,Open to get a skin trial card of Amir for 1-3 days randomly.
+420024,Skin Trial Chest - Goro,Open to get a skin trial card of Goro for 1-3 days randomly.
+420025,Skin Trial Chest - FireKing,Open to get a skin trial card of FireKing for 1-3 days randomly.
+420026,Skin Trial Chest - Nasha,Open to get a skin trial card of Nasha for 1-3 days randomly.
+420031,Gold Chest,Open to get 1-50 gold randomly.
+420032,Diamond Chest,Open to get 1-30 diamond randomly.
+420701,Lv.3 Red Component Chest,Open to get a random lv.3 red component.
+420702,Lv.3 Green Component Chest,Open to get a random lv.3 green component.
+420703,Lv.3 Blue Component Chest,Open to get a random lv.3 blue component.
+420704,Lv.4 Red Component Chest,Open to get a random lv.4 red component.
+420705,Lv.4 Green Component Chest,Open to get a random lv.4 green component.
+420706,Lv.4 Blue Component Chest,Open to get a random lv.4 blue component.
+431001,Generous Newbie Pack I,"Open to get lv.1 component x1, lv.2 component x1 and lv.3 component x1."
+431002,Generous Newbie Pack II,"Open to get lv.1 component x1, lv.2 component x1 and lv.3 component x1."
+431003,Hero Trial Chest,Open to get a random hero trial card.
+431004,Hero Trial Chest,Open to get a random hero trial card.
+431005,Hero Trial Chest,Open to get a random hero trial card.
+431006,Hero Trial Chest,Open to get a random hero trial card.
+431007,Skin Trial Chest,Open to get a random skin trial card.
+431008,Skin Trial Chest,Open to get a random skin trial card.
+431009,Skin Trial Chest,Open to get a random skin trial card.
+431010,Skin Trial Chest,Open to get a random skin trial card.
+432001,Extra-value Hero Pack,Open to get permanent heroes Catherine and Amir.
+433001,Pack of Saisi,Open to get 1 reward from the following items randomly
+433002,Pack of Fox,Open to get 1 reward from the following items randomly
+433003,Pack of Li Long,Open to get 1 reward from the following items randomly
+433004,Pack of FireKing,Open to get 1 reward from the following items randomly
+434001,Skin Pack of Saisi,Open to get 1 reward from the following items randomly
+434002,Skin Pack of Fox,Open to get 1 reward from the following items randomly
+434003,Skin Pack of Li Long,Open to get 1 reward from the following items randomly
+434004,Skin Pack of FireKing,Open to get 1 reward from the following items randomly
+451000,Single draw by gold,Open to get a random lv. 1-2 component
+452000,5th time of gold drawing,Open to get a random lv. 2-3 component
+453000,Single draw by diamond,Open to get a random lv. 2-4 component
+454000,5th time of diamond drawing,Open to get a random lv. 4-5 component
+470000,Market Test Reward Chest,0
+480001,3 days sign-in reward,"Sign-in Reward pack, open to get all items"
+480002,5 days sign-in reward,"Sign-in Reward pack, open to get all items"
+480003,8 days sign-in reward,"Sign-in Reward pack, open to get all items"
+480004,13 days sign-in reward,"Sign-in Reward pack, open to get all items"
+482001,Level 5 Pack,"Reach Level 5 to claim, open to get all items"
+482002,Level 10 Pack,"Reach Level 10 to claim, open to get all items"
+482003,Level 15 Pack,"Reach Level 15 to claim, open to get all items"
+482004,Level 20 Pack,"Reach Level 20 to claim, open to get all items"
+482005,Level 25 Pack,"Reach Level 25 to claim, open to get all items"
+482006,Level 30 Pack,"Reach Level 30 to claim, open to get all items"
+482007,Level 35 Pack,"Reach Level 35 to claim, open to get all items"
+482008,Level 40 Pack,"Reach Level 40 to claim, open to get all items"
+482009,Level 50 Pack,"Reach Level 50 to claim, open to get all items"
+485001,5 Minutes Online Pack,Earn by Spending 5 Min Online
+485002,10 Minutes Online Pack,Earn by Spending 10 Min Online
+485003,15 Minutes Online Pack,Earn by Spending 15 Min Online
+485004,30 Minutes Online Pack,Earn by Spending 30 Min Online
+485005,1 Hour Online Pack,Earn by Spending 1 Hour Online
+485006,2 Hours Online Pack,Earn by Spending 2 Hours Online
+490076,20 Activity Points Pack,Earn all the rewards in this chest by reaching 20 Activity Points
+490077,30 Activity Points Pack,Earn all the rewards in this chest by reaching 30 Activity Points
+490078,40 Activity Points Pack,Earn all the rewards in this chest by reaching 40 Activity Points
+490079,50 Activity Points Pack,Earn all the rewards in this chest by reaching 50 Activity Points
+490080,60 Activity Points Pack,Earn all the rewards in this chest by reaching 60 Activity Points
+490081,200 Activity Points Pack,Earn all the rewards in this chest by reaching 200 Activity Points
+490082,350 Activity Points Pack,Earn all the rewards in this chest by reaching 350 Activity Points
+490083,400 Activity Points Pack,Earn all the rewards in this chest by reaching 400 Activity Points

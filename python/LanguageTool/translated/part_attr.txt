@@ -1,0 +1,85 @@
+$id,intro
+771101,Damage +0.4%
+771102,Crit +0.4
+771103,Fire Rate +0.47%
+771104,Pierce +1.0
+771201,Armor +1.4
+771202,HP +3.1
+771203,Range +0.45%
+771204,Item STR +0.5
+771301,Speed +0.4
+771302,"Speed +0.2, HP +1.6"
+771303,"Magazine +0.2, HP +1.8"
+771304,Reload Time -0.01
+772101,Damage +0.54%
+772102,Crit +0.6
+772103,"Crit +0.5, Fire Rate +0.12%"
+772104,Fire Rate +0.63%
+772105,"Pierce +1.0, Damage +0.18%"
+772201,Armor +1.9
+772202,HP +4.2
+772203,"HP +2.8, Damage +0.18%"
+772204,Range +0.6%
+772205,Item STR +0.7
+772301,Speed +0.6
+772302,"Speed +0.4, Crit +0.2"
+772303,"Magazine +0.3, Armor +0.8"
+772304,"Magazine +0.2, HP +3"
+772305,Reload Time -0.02
+773101,Damage +0.78%
+773103,Crit +0.8
+773104,Fire Rate +0.9%
+773105,"Fire Rate +0.6%, Damage +0.26%"
+773106,Pierce +2.2
+773201,"Item STR +0.8, Armor +1.1"
+773203,HP +6.1
+773204,Armor +2.7
+773205,Item STR +1
+773206,Range +0.88%
+773301,Speed +0.9
+773302,"Speed +0.5, Fire Rate +0.4%"
+773303,"Speed +0.4, Item STR +0.6"
+773304,"Magazine +0.4, Armor +1.6"
+773306,Reload Time -0.03
+774101,Damage +1.2%
+774102,"Damage +0.6%, Crit +0.3, Item STR +0.4"
+774103,Crit +1.2
+774105,Fire Rate +1.4%
+774106,"Fire Rate +0.8%, Damage +0.4%"
+774107,Pierce +3.3
+774201,Armor +4.2
+774202,"Armor +2.1, Item STR +0.8"
+774203,HP +9.4
+774204,"HP +4.7, Range +0.07%"
+774205,Item STR +1.6
+774207,Range +1.34%
+774301,Speed +1.4
+774302,"Speed +0.7, HP +4.7"
+774303,"Speed +0.7, Item STR +0.8"
+774304,"Magazine +0.5, Pierce +2.2"
+774305,"Magazine +0.5, Armor +2.9"
+774307,"Reload Time -0.04, Armor +2.5"
+775101,Damage +2%
+775102,"Damage +1.5%, Speed +0.6"
+775103,Crit +2
+775104,"Crit +1.5, Fire Rate +0.6%"
+775106,Fire Rate +2.3%
+775107,"Fire Rate +1.2%, Damage +1%"
+775108,Pierce +5.5
+775201,Armor +6.9
+775203,"Armor +3.5, HP +7.7"
+775204,HP +15.4
+775205,"HP +7.7, Item STR +1.3"
+775206,Range +2.2%
+775207,Item STR +2.6
+775208,"Item STR +1.3, Pierce +2.8"
+775301,Speed +2.4
+775302,"Speed +1.8, Crit +0.5"
+775303,"Speed +1.8, Armor +1.7"
+775304,"Magazine +0.6, HP +11.8"
+775305,"Magazine +0.6, Speed +1.8"
+775306,"Magazine +0.4, Armor +5.8"
+775307,"Reload Time -0.08, HP +6.1, Armor +2.3"
+780001,Damage +5%
+780101,HP +50
+780201,Crit +5%

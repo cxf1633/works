@@ -1,0 +1,2 @@
+id,name,spd,hp,def,inte,dam,pass_dam,crit,fire_spd,box_magazine,accu,recoil,range,reload,shape_id,ai_type,skill1,skill2,skill3,skill4,skill5,skill6,skill7,spy_range,follow_range,brush_performance,brush_time,vehicle_time
+"30101","沙漠异兽","0.0","10000","10","0","100","0","0.0","3","0","0","0","20.0","0.0","80101","0","801001","801011","801021","801031","801041","801051","0","30","30","0","0","0"

@@ -1,0 +1,117 @@
+$talent_id,name,intro
+530001,HP Activation,HP +60
+530002,Stabilizer,Stability +10
+530003,Biochemical Armor,Armor +25
+530004,Oversized Magazine,Ammo +4
+530005,Spotlight Core,Crit +5
+530006,High-energy Gunpowder,Damage +5%
+530007,Tactical Pace,Increases movement speed after rolling.
+530008,Rampant Fire,Activates a shield after strafing.
+530009,More and More Courageous,Chance for acceleration trigger after being hit.
+530101,Stabilizer,Stability +20
+530102,Ultra Precision Scope,Precision +20
+530103,Biochemical Armor,Armor +25
+530104,Jet Power,Speed +10
+530105,High-energy Gunpowder,Damage +5%
+530106,Cooldown Grid,Reload time -1s
+530107,All in One Basket,Increases Movement Speed after throwing.
+530108,Desperate Counterattack,Activates a shield when HP falls below 100.
+530109,Thorn Counter,"Once attacked, reduces attacker's movement and attack speed."
+530201,HP Activation,HP +60
+530202,Biochemical Armor,Armor +25
+530203,Dense Rifling,Range +10%
+530204,Jet Power,Speed +10
+530205,Oversized Magazine,Ammo +3
+530206,Spotlight Core,Crit +5
+530207,Sudden Death Leap,Increases firearm Damage after rolling.
+530208,Impact Protection,Increases Armor after jet impact.
+530209,Bloody Slaughter,Recovers HP after a kill.
+530301,Biochemical Armor,Armor +25
+530302,HP Activation,HP +60
+530303,Fire Rate Grid,Fire Rate +6%
+530304,Oversized Magazine,Ammo +4
+530305,High-energy Gunpowder,Damage +10%
+530306,Jet Power,Speed +10
+530307,Sharp Edge,Increases Pierce after rolling.
+530308,Fortitude,Immediately cools down after a kill.
+530309,Battlefield Supply,Automatically supplies surrounding teammates with ammo.
+530401,Jet Power,Speed +10
+530402,High-energy Gunpowder,Damage +10%
+530403,HP Activation,HP +60
+530404,Alloy Warhead,Pierce +20
+530405,Biochemical Armor,Armor +25
+530406,Spotlight Core,Crit +5
+530407,Runaway Treatment,Increases Damage after healing.
+530408,Shot Protection,Increases Armor after opening fire.
+530409,Running Fight,Increase movement speed by hitting on enemies
+530501,HP Activation,HP +60
+530502,Stabilizer,Stability +10
+530503,Biochemical Armor,Armor +25
+530504,Ultra Precision Scope,Precision +10
+530505,High-energy Gunpowder,Damage +5%
+530506,Alloy Warhead,Pierce +20
+530507,Battle Convergence,Increases DMG after casting Slashing Sword
+530508,Without a Trace,Increases speed after casting Lightning Blade.
+530509,Fire with Fire,A kill accelerates skill CD.
+530601,HP Activation,HP +60
+530602,Biochemical Armor,Armor +25
+530603,Dense Rifling,Range +10%
+530604,Item STRen,Item STR +15
+530605,Alloy Warhead,Pierce +20
+530606,Spotlight Core,Crit +5
+530607,Throwing Protection,Increases Armor after throwing.
+530608,Runaway Lolita,Hit has a chance of triggering Crit.
+530609,Grenade Arrival,Earns a grenade during the interval
+530701,HP Activation,HP +60
+530702,Fire Rate Grid,Fire Rate +5%
+530703,Oversized Magazine,Ammo +4
+530704,Item STRen,Speed +10
+530705,Dense Rifling,Range +10%
+530706,Spotlight Core,Crit +5
+530707,Continuous Battle,Eat an EXP Badges and recover HP.
+530708,Through the Line of Fire,Increases Pierce after sudden advance.
+530709,Stunt Master,Adds a shield when a skill hits.
+530801,Stabilizer,Stability +12
+530802,High-energy Gunpowder,Damage +5%
+530803,Ultra Precision Scope,Precision +12
+530804,Alloy Warhead,Pierce +20
+530805,Biochemical Armor,Armor +25
+530806,Jet Power,Speed +10
+530807,Quicksand,Fire Rate reduced by 30% for 3s after stepping into the quicksand.
+530808,Make a Run For It,Reduces Armor after Sandstorm hits.
+530809,Battlefield Acceleration,Continuously increases attack speed of surrounding teammates.
+530901,Biochemical Armor,Armor +25
+530902,HP Activation,HP +60
+530903,Jet Power,Speed +10
+530904,Fire Rate Grid,Fire Rate +5%
+530905,Spotlight Core,Crit +5
+530906,High-energy Gunpowder,Damage +5%
+530907,Enemy Pursuit,Increases Armor after using Dual Guns.
+530908,Nothing Left,Increases Fire Rate after air fire.
+530909,Awaiting Opportunity,Hit has a chance of reducing skill CD.
+531001,HP Activation,HP +60
+531002,Cooldown Grid,Reload time -2s
+531003,Jet Power,Speed +10
+531004,Item STRen,Item STR +15
+531005,Oversized Magazine,Ammo +25
+531006,High-energy Gunpowder,Damage +5%
+531007,Burning Oil,Increase ATK power after spilling oil.
+531008,Grenade Shield,Earns an Armor bonus after hurling a grenade.
+531009,Undaunted Bravery,Increases Movement Speed after using skill.
+531010,Flame Gun,Flame Gun
+531101,Biochemical Armor,Armor +25
+531102,Alloy Warhead,Pierce. +20
+531103,Oversized Magazine,Ammo +4
+531104,High-energy Gunpowder,Crit +5
+531105,Ultra Precision Scope,Precision +10
+531106,Spotlight Core,Damage +5%
+531107,Prey Spotted,Increases Pierce after a trap hits.
+531108,Frozen Snow and Rain,Reduces Movement Speed after Arrow Rain hits.
+531109,Silver Heart Crossbow,Hit carries poison
+540001,Attack Increase,Increases firearm Attack
+540002,Max HP Increase,Increases hero Max HP
+540003,Defense Increase,Increases hero Defense
+540004,Movement Speed Increase,Increases hero Speed
+540006,Range Increase,Increases firearm Range
+540007,Crit Increase,Increases firearm Crit
+540008,Skill Increase,Increases skill level

@@ -1,0 +1,26 @@
+$id,name,intro
+310001,Classic,Gaia
+310002,Interstellar Knight,Gaia with Interstellar outfit gets no only better looking but also brand new special effects!
+310101,Classic,Theodore
+310102,Modern Armor,Wearing this Interstellar armor makes Theodore looks unshakable.
+310201,Classic,Saisi
+310202,Renegade,This suit of clown makes Saisi looks more eccentric.
+310301,Classic,Joan
+310302,Ghost,"This excellent suit was well designed by high-tech, which makes Joan smells like a ghost."
+310401,Classic,Fox
+310402,Nurse,"Ah yes, Fox was a full-time Nurse."
+310501,Classic,Li Long
+310502,Imperial Guard,Li Long found this mystery set seJoanl years ago before the catastrophe. He always feels some kind of ancient power when wearing it.
+310601,Classic,Catherine
+310602,Maintaining Expert,Catherine only wears this suit when maintaining her kits.
+310701,Classic,Logan
+310702,Assassin,"Logan was borned to be a killer, either kill or be killed!"
+310801,Classic,Amir
+310802,Death Bringer,"Amir turns into the Death Bringer, harvesting all the lives."
+310901,Classic,Goro
+310902,Cowboy of the Doom,"The spirit of cowboy still lives on, even in this wasteland."
+311001,Classic,FireKing
+311002,Flame Controller,FireKing is shooting blue flames to burn everything into ashes.
+311101,Classic,Nasha
+311102,Electrical Queen,An incredible high-tech suit with powerful a electrical crossbow makes Nasha to be the best hunter!
+500101,Mech,0

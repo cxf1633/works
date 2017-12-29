@@ -1,0 +1,13 @@
+id,type,ability_type,ability_name,condition,condition_name,start_value,standard_value,intro
+"9","1","2","Survival","2","Death / Combat","20","0",""
+"8","1","3","DMG Dealt","3","DMG Dealt / Min","0","1100",""
+"7","1","1","Killing","1","Kills / Match","0","15",""
+"6","3","6","Hit Rating","6","Hit Rating / Match","0","80",""
+"5","3","5","Growth","5","EXP acquired / Min","0","1300",""
+"4","3","4","DMG Taken","4","DMG Taken / Min","0","1800",""
+"3","3","2","Survival","2","Deaths / Match","30","0",""
+"2","3","3","DMG Dealt","3","DMG Dealt / Min","0","2500",""
+"1","3","1","Killing","1","Kills / Match","0","50",""
+"12","1","8","Assist","8","Assists / Match","0","15",""
+"11","1","7","Participation","7","Participation rate","0","80",""
+"10","1","4","DMG Taken","4","DMG Taken / Min","0","1000",""

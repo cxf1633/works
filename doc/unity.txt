@@ -1,0 +1,2 @@
+1，在vs中 ctor 按两下tab 生成对应类的构造函数
+2，pureMvc 刘国柱

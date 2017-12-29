@@ -1,0 +1,7 @@
+$id,name
+1,60 Tickets
+2,300 Tickets
+3,680 Tickets
+4,1280 Tickets
+5,3280 Tickets
+6,6480 Tickets

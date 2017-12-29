@@ -1,0 +1,10 @@
+$id,name
+1,Battle Area
+2,Ranked Area
+3,Deathmatch Area
+4,Guide Area
+5,Team Deathmatch
+6,Boss Mode
+7,BG of Legion Battle
+8,BG of Legion Deathmatch
+9,Newbie Area

@@ -1,0 +1,38 @@
+表名	关联ID字段	导入导出字段1	导入导出字段2	导入导出字段3	导入导出字段4	导入导出字段5
+ability_score	id	ability_name	condition_name			
+achievement	id	name	intro			
+box	box_id	name	intro		
+brawl_map	id	name				
+fast_command	id	fast_command				
+global_var	k	v_string				
+goods2	id	name				
+group_feats_lv	group_feats_lv	name				
+group_role	role_id	role_name				
+guide	id	step_intro				
+gun_effect	id	name				
+hero	id	name	intro	intro2	intro3	intro4
+item	id	name	intro			
+line_mode	id	name				
+loading_tips	id	word				
+map	id	map_name	info	mode_name		
+npc_hero	id	name				
+online_box	require_time	condition_intro				
+part_attr	id	intro				
+rule	id	title	word_para			
+ranking_list	list_id	name	intro			
+shop	id	name	sub_name			
+skill	"skill_id,lv"	name	intro	intro2		
+skill_effect	"effect_id,lv"	effect_name	intro			
+skin	id	name	intro									
+talent	talent_id	name	intro			
+task	id	name	intro			
+triggers	trigger_id	name				
+game_lang	id,lang_0	lang_1
+rank_info	rank_index	name		rank_lv_name			
+recharge	id	name			
+game_helper	id	helper_name		case_name	case_word			
+game_helper_word	id	word		
+head_frame	id	name	condition_word				
+lv_box	require_lv	intro				
+system_name	id	female_firstname	male_firstname	lastname				
+npc_name	id	firstname	lastname				

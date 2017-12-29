@@ -1,0 +1,1 @@
+$rank_lv,rank_title

@@ -1,0 +1,13 @@
+$id,ability_name,condition_name
+1,Killing,Kills / Match
+2,DMG Dealt,DMG Dealt / Min
+3,Survival,Deaths / Match
+4,DMG Taken,DMG Taken / Min
+5,Growth,EXP acquired / Min
+6,Hit Rating,Hit Rating / Match
+7,Killing,Kills / Match
+8,DMG Dealt,DMG Dealt / Min
+9,Survival,Death / Combat
+10,DMG Taken,DMG Taken / Min
+11,Participation,Participation rate
+12,Assist,Assists / Match

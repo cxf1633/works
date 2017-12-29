@@ -1,0 +1,30 @@
+$id,map_name,info,mode_name
+800001,Tutorial,0,Tutorial
+800002,Tutorial 2,0,Tutorial 2
+810000,Desert Stronghold,0,Burst Mode
+810001,Desert Stronghold,0,Team Deathmatch
+810002,Desert Stronghold,0,Deathmatch
+812000,Military Base,0,Deathmatch
+812001,Military Base,0,Newbie Area
+812002,Military Base,0,Team Deathmatch
+813001,CV - Front,0,Control Mode
+813002,CV - Middle,0,Team Match
+813003,CV - Rear,0,Deathmatch
+815000,Frozen Wasteland,0,Control Mode
+815001,Frozen Wasteland,0,Team Deathmatch
+815002,Frozen Wasteland,0,Team Match
+817001,Ancient Ruins,0,Team Match
+817002,Ancient Ruins,0,Team Deathmatch
+817003,Ancient Ruins,0,Deathmatch
+820001,Desert Stronghold,Qualifying Match,Burst Mode
+820002,CV - Middle,Qualifying Match,Team Match
+820003,Ancient Ruins,Qualifying Match,Team Match
+820004,Frozen Wasteland,Qualifying Match,Control Mode
+830001,Desert Stronghold,Battle of Legions,Burst Mode
+830002,CV - Middle,Battle of Legions,Team Match
+830003,Ancient Ruins,Battle of Legions,Team Match
+830004,Frozen Wasteland,Battle of Legions,Control Mode
+840001,Desert Stronghold,Deathmatch of Legions,Team Deathmatch
+840002,Military Base,Deathmatch of Legions,Team Deathmatch
+840003,Frozen Wasteland,Deathmatch of Legions,Team Deathmatch
+910001,,0,

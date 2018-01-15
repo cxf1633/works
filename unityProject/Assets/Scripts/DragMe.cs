@@ -7,11 +7,28 @@ using UnityEngine.UI;
 public class DragMe : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
 	public bool dragOnSurfaces = true;
-	
-	private Dictionary<int,GameObject> m_DraggingIcons = new Dictionary<int, GameObject>();
+    private Dictionary<int,GameObject> m_DraggingIcons = new Dictionary<int, GameObject>();
 	private Dictionary<int, RectTransform> m_DraggingPlanes = new Dictionary<int, RectTransform>();
 
-	public void OnBeginDrag(PointerEventData eventData)
+    public GameObject selectIcon;
+    private bool isPickUp = false;
+    private Sprite original;
+
+
+    private void Awake() {
+        original = GetComponent<Image>().sprite;
+
+        Debug.Log("name ==>>" + transform.parent.gameObject.name);
+        if (transform.parent.gameObject.name.Equals("Button3"))
+        {
+            GetComponent<Image>().sprite = Resources.Load("Atlas/BattleRoyalUIAtlas/BattleRoyal_item_280009", typeof(Sprite)) as Sprite;
+        }
+    }
+    public void ResetImage() {
+        GetComponent<Image>().sprite = original;
+    }
+
+    public void OnBeginDrag(PointerEventData eventData)
 	{
 		var canvas = FindInParents<Canvas>(gameObject);
 		if (canvas == null)
@@ -85,4 +102,11 @@ public class DragMe : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHa
 		}
 		return comp;
 	}
+
+    public void OnSelect() {
+        Debug.Log("DragMe OnSelect");
+        Debug.Log("pos x=" + transform.position.x + " y="+ transform.position.y);
+        selectIcon.transform.position = transform.position;
+        selectIcon.SetActive(true);
+    }
 }

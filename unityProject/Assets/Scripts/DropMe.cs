@@ -22,11 +22,20 @@ public class DropMe : MonoBehaviour, IDropHandler, IPointerEnterHandler, IPointe
 		
 		if (receivingImage == null)
 			return;
-		
-		Sprite dropSprite = GetDropSprite (data);
-		if (dropSprite != null)
-			receivingImage.overrideSprite = dropSprite;
-	}
+
+        //Sprite dropSprite = GetDropSprite (data);
+        //if (dropSprite != null)
+        //	receivingImage.overrideSprite = dropSprite;
+
+        var originalObj = data.pointerDrag;
+        if (originalObj == null)
+            return;
+
+        var dragMe = originalObj.GetComponent<DragMe>();
+        if (dragMe == null)
+            return ;
+        dragMe.ResetImage();
+    }
 
 	public void OnPointerEnter(PointerEventData data)
 	{
@@ -34,8 +43,8 @@ public class DropMe : MonoBehaviour, IDropHandler, IPointerEnterHandler, IPointe
 			return;
 		
 		Sprite dropSprite = GetDropSprite (data);
-		if (dropSprite != null)
-			containerImage.color = highlightColor;
+        if (dropSprite != null)
+            containerImage.color = highlightColor;
 	}
 
 	public void OnPointerExit(PointerEventData data)
@@ -59,7 +68,7 @@ public class DropMe : MonoBehaviour, IDropHandler, IPointerEnterHandler, IPointe
 		var srcImage = originalObj.GetComponent<Image>();
 		if (srcImage == null)
 			return null;
-		
-		return srcImage.sprite;
+
+        return srcImage.sprite;
 	}
 }

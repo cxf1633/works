@@ -8,6 +8,8 @@ public class PanelManager : MonoBehaviour {
 
 	public Animator initiallyOpen;
 
+    private int m_count;
+
 	private int m_OpenParameterId;
 	private Animator m_Open;
 	private GameObject m_PreviouslySelected;
@@ -15,7 +17,13 @@ public class PanelManager : MonoBehaviour {
 	const string k_OpenTransitionName = "Open";
 	const string k_ClosedStateName = "Closed";
 
-	public void OnEnable()
+
+    public void OnMyCount(IList<int> ss) {
+
+    }
+
+
+    public void OnEnable()
 	{
 		m_OpenParameterId = Animator.StringToHash (k_OpenTransitionName);
 

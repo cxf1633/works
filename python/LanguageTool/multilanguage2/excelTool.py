@@ -92,7 +92,7 @@ def replaceValue(file, colName="lang2", by_index=0):
     ws.write(2, 3, txt1.decode('utf-8')) # 此处需要将中文字符串解码成unicode码，否则会报错  
     txt2 = '马可瓦多'  
     ws.write(3, 3, txt2.decode('utf-8'))  
-    wb.save("test.xlsx")  
+    wb.save("test.xls")  
 
 def openpyxlTest():
     workbook = Workbook()  

@@ -1,0 +1,9 @@
+[user]
+  name = cxf1633
+  email = cxf1633@qq.com
+[merge]
+  tool = bc3
+[mergetool "bc3"]
+  path = C:/Program Files/TortoiseGit/bin/TortoiseGitMerge.exe
+[mergetool]
+  prompt = No

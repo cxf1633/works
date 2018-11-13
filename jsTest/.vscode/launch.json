@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Run hello.js",
+            "name": "Run jsPrintStack.js",
             "type": "node",
             "request": "launch",
-            "program": "${workspaceRoot}/jsTest.js",
+            "program": "${workspaceRoot}/jsPrintStack.js",
             "stopOnEntry": false,
             "args": [],
             "cwd": "${workspaceRoot}",

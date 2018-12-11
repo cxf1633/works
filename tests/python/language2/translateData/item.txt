@@ -1,0 +1,118 @@
+$id,name,intro
+201031,Joan,"Use to get a 1 day free trial of Joan. If you already have this hero, you will get 5 diamonds instead."
+201041,Fox,"Use to get a 1 day free trial of Fox. If you already have this hero, you will get 5 diamonds instead."
+201051,Lilong,"Use to get a 1 day free trial of Lilong. If you already have this hero, you will get 5 diamonds instead."
+201071,Bill,"Use to get a 1 day free trial of Bill. If you already have this hero, you will get 5 diamonds instead."
+201081,Emil,"Use to get a 1 day free trial of Emil. If you already have this hero, you will get 5 diamonds instead."
+201091,Diaby,"Use to get a 1 day free trial of Diaby. If you already have this hero, you will get 5 diamonds instead."
+201101,Fireking,"Use to get a 1 day free trial of Fireking. If you already have this hero, you will get 5 diamonds instead."
+201111,Nasha,"Use to get a 1 day free trial of Nasha. If you already have this hero, you will get 5 diamonds instead."
+202001,Interstellar Knight Skin,"Use to get a 1 day free trial of the Interstellar Knight Skin. If you already have this skin, you will get 5 diamonds"
+202011,Modern Armor Skin,"Use to get a 1 day free trial of the Modern Armor Skin. If you already have this skin, you will get 5 diamonds"
+202021,Renegade Skin,"Use to get a 1 day free trial of the Renegade Skin. If you already have this skin, you will get 5 diamonds"
+202031,Ghost Skin,"Use to get a 1 day free trial of the Ghost Skin. If you already have this skin, you will get 5 diamonds"
+203009,Diaby Fragment,Collect 50 fragments to permanently unlock Diaby
+203090,All-purpose Hero Fragment,Collect various amounts of this fragment to unlock different heroes
+204000,Interstellar Knight Fragment,Collect 50 fragments to permanently unlock the Interstellar Knight Skin for Gaia
+204090,All-purpose Skin Fragment,Collect various amounts of this fragment to unlock different skins
+208002,,
+208003,,
+209001,Name-change card,Use to change your player name
+210001,,
+210002,,
+210003,Level 3 Component Chest,Open to get a random Level 3 Component 
+213001,,
+213002,,
+250001,Heavy-duty Grenade,A grenade with enormous power. Deals AoE damage.
+250002,Flash-Bang,Enemies within range who are facing the explosion will be temporarily blinded
+250003,Incendiary Grenade,Enemies within range will take damage multiple times
+271101,Level 1 Component: Ammo,Damage +0.52%
+271102,Level 1 Component: Gas Action,
+271103,Level 1 Component: Rifled Bore,
+271104,Level 1 Component: Bolt,
+271201,Level 2 Component: Bullet,
+271202,Level 2 Component: Cartridge,
+271203,Level 2 Component: Receiver,
+271204,Level 2 Component: Trigger,
+271205,Level 2 Component: Sights,
+271301,Level 3 Component: Firing Pin,
+271302,Level 3 Component: Primer,
+271303,,
+271304,Level 3 Component: Stock,
+271305,Level 3 Component: Grip,
+271306,Level 3 Component: Trigger Mechanism,
+271401,Level 4 Component: Firepower,
+271402,Level 4 Component: Storm,
+271403,Level 4 Component: Trial,
+271404,Level 4 Component: Fury,
+271405,Level 4 Component: Overwhelming Force,
+271406,Level 4 Component: Insanity,
+271407,Level 4 Component: Fearlessness,
+271501,Level 4 Component: Powerhouse,
+271502,,
+271503,Level 4 Component: Elite Warrior,
+271504,,
+271505,,
+271506,,
+271507,,
+271508,,
+272101,,
+272102,,
+272103,,
+272104,,
+272201,,
+272202,,
+272203,,
+272204,,
+272205,,
+272301,,
+272302,,
+272303,,
+272304,,
+272305,,
+272306,,
+272401,,
+272402,,
+272403,,
+272404,,
+272405,,
+272406,,
+272407,,
+272501,,
+272502,,
+272503,,
+272504,,
+272505,,
+272506,,
+272507,,
+272508,,
+273101,,
+273102,,
+273103,,
+273104,,
+273201,,
+273202,,
+273203,,
+273204,,
+273205,,
+273301,,
+273302,,
+273303,,
+273304,,
+273305,,
+273306,,
+273401,,
+273402,,
+273403,,
+273404,,
+273405,,
+273406,,
+273407,,
+273501,,
+273502,,
+273503,,
+273504,,
+273505,,
+273506,,
+273507,,
+273508,,

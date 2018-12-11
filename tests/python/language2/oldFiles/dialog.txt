@@ -1,0 +1,2 @@
+id,character_id,wave,type,img_id,hero_name,position,text
+"1000001","0","1","0","0","0","0","控制了人类的味觉，就是控制了整个世界。"

@@ -1,0 +1,68 @@
+$box_id,name,intro,note
+400001,Level 1 Component Chest,Open to get a random Level 1 Component,Every Level 1 component can be found within
+400002,Level 2 Component Chest,Open to get a random Level 2 Component,Every Level 2 component can be found within
+400003,Level 3 Component Chest,Open to get a random Level 3 Component,Every Level 3 component can be found within
+400004,Level 4 Component Chest,Open to get a random Level 4 Component,Every Level 4 component can be found within
+400005,Level 5 Component Chest,Open to get a random Level 5 Component,Every Level 5 component can be found within
+400006,Level 2 Random Component Chest,Open to get a random component up to Level 2,Every Level 1 and 2 component can be found within
+400007,Level 3 Random Component Chest,Open to get a random component up to Level 3,"Every Level 1, 2, and 3 component can be found within"
+400008,Level 4 Random Component chest,Open to get a random component up to Level 4,"Every Level 1, 2, 3, and 4 component can be found within"
+400009,Level 5 Random Component Chest,Open to get a random component up to Level 5,"Every Level 1, 2, 3, 4, and 5 component can be found within"
+410001,Level 1 Boss Reward Chest,,Reward for getting an SSS rating in a Boss battle
+410002,Level 2 Boss Reward Chest,,Reward for getting an SS rating in a Boss battle
+410003,Level 3 Boss Reward Chest,,Reward for getting an S rating in a Boss battle
+410004,Level 4 Boss Reward Chest,,Reward for getting an A rating in a Boss battle
+410005,Level 5 Boss Reward Chest,,Reward for getting an B rating in a Boss battle
+410006,Level 6 Boss Reward Chest,,Reward for getting an C rating in a Boss battle
+440000,First-time Chest,,Guaranteed first time you use the lottery 
+440001,Gold Lottery Chest,,All items contained in the Gold Lottery Chest
+440002,Diamond Lottery Chest,,All items contained in the Diamond Lottery Chest
+440003,Epic Lottery Chest,,All items contained in the Epic Lotetery Chest
+440004,Legendary Blue Weapon,"Contains some Blue Level Weapons, Open to get a random one",Blue
+440005,Legendary Purple Weapon,"Contains some Purple Level Weapons, Opeon to get a random one",Purple
+440006,Legendary Blue Equipment,"Contains Legendary Equipment, Open to get a random one. There is chance of getting Blue level equipment",Blue
+440007,Legendary Purple Items,"Contains Legendary Items, get a random one. There is a chance of getting purple level items",Purple
+440008,Legendary Purple Components,"Contains some Purple Weapon Components, open to randomly get several",Purple
+440009,Legendary Purple Parts,"Contains some Purple Weapon parts, open to randomly get several",Purple
+440010,Legendary Purple Equipment,"Contains some Purple Equipment, open to randomly get several",Purple
+440011,Mixed Weapon Parts,Contains Weapon parts of various levels up to Blue. Open to randomly get one,
+440012,Mixed Equipment,Contains Equipment of various levels up to Blue. Open to randomly get one,
+440013,Legendary Blue Fragments,"Contains some Blue Level Weapon Fragments, Open to get a random one",Blue
+440014,Legendary Blue Components,Contains some Blue Level Weapon Components. Open to get a random one.,Blue
+440015,Super Grenade Set,"Contains all types of Grenades, open to get one of each type",
+440016,Mixed Set,Contains various Weapon Parts and Equipment of various levels up to Blue. Open to get a random one,
+440017,Extreme Weapon Fragments,"Contains Purple Weapons Fragments, Open to get fragments of a random type",
+440018,Legendary Purple Components,"Contains some Purple Weapon Components, open to randomly get several",Purple
+450001,,,
+450002,,,
+450011,,,
+450012,,,
+480001,3-day sign in reward,,"Sign-in Reward pack, open to get all items"
+480002,5-day sign in reward,,"Sign-in Reward pack, open to get all items"
+480003,8-day sign in reward,,"Sign-in Reward pack, open to get all items"
+480004,13-day sign in reward,,"Sign-in Reward pack, open to get all items"
+480005,21-day sign in reward,,"Sign-in Reward pack, open to get all items"
+482001,Level 5 Pack,,"Reach Level 5 to claim, open to get all items"
+482002,Level 10 Pack,,"Reach Level 10 to claim, open to get all items"
+482003,Level 15 Pack,,"Reach Level 15 to claim, open to get all items"
+482004,Level 20 Pack,,"Reach Level 20 to claim, open to get all items"
+482005,Level 25 Pack,,"Reach Level 25 to claim, open to get all items"
+482006,Level 30 Pack,,"Reach Level 30 to claim, open to get all items"
+482007,Level 35 Pack,,"Reach Level 35 to claim, open to get all items"
+482008,Level 40 Pack,,"Reach Level 40 to claim, open to get all items"
+482009,Level 50 Pack,,"Reach Level 50 to claim, open to get all items"
+482010,Level 60 Pack,,"Reach Level 60 to claim, open to get all items"
+485001,5 Minutes Online Pack,,Earn by Spending 5 Min Online
+485002,10 Minutes Online Pack,,Earn by Spending 10 Min Online
+485003,15 Minutes Online Pack,,Earn by Spending 15 Min Online
+485004,30 Minutes Online Pack,,Earn by Spending 30 Min Online
+485005,1 Hour Online Pack,,Earn by Spending 1 Hour Online
+485006,2 Hours Online Pack,,Earn by Spending 2 Hours Online
+490076,20 Activity Points Pack,,Earn all the rewards in this chest by reaching 20 Activity Points
+490077,30 Activity Points Pack,,Earn all the rewards in this chest by reaching 30 Activity Points
+490078,40 Activity Points Pack,,Earn all the rewards in this chest by reaching 40 Activity Points
+490079,50 Activity Points Pack,,Earn all the rewards in this chest by reaching 50 Activity Points
+490080,60 Activity Points Pack,,Earn all the rewards in this chest by reaching 60 Activity Points
+490081,200 Activity Points Pack,,Earn all the rewards in this chest by reaching 200 Activity Points
+490082,350 Activity Points Pack,,Earn all the rewards in this chest by reaching 350 Activity Points
+490083,400 Activity Points Pack,,Earn all the rewards in this chest by reaching 400 Activity Points

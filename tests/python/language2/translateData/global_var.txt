@@ -1,0 +1,41 @@
+$k,v_string
+EMAIL_ACTIVITY_AWARD_SENDER,
+EMAIL_ACTIVITY_AWARD_TENT,%s issued the following reward
+EMAIL_ACTIVITY_AWARD_TITLE,%s event reward
+EMAIL_BATTLE_SENDER,
+EMAIL_BATTLE_TENT,"Dear Player, you were offline when the %s battle ended, so we sent your battle rewards via mail. Please collect your rewards below:"
+EMAIL_BATTLE_TITLE,Battle Rewards
+EMAIL_CARD_EXPIRE_SENDER,
+EMAIL_CARD_EXPIRE_TENT,"Dear Player, your %s expires on %s. Don't forget to purchase another!"
+EMAIL_CARD_EXPIRE_TITLE,%s Expiration Reminder
+EMAIL_GOLD_TITLE,Your Friend Sent You Gold
+EMAIL_GROUP_DEL_SENDER,
+EMAIL_GROUP_DEL_TENT,Your Legion (%s) was disbanded by the chief on %s. Please join another Legion.
+EMAIL_GROUP_DEL_TITLE,Legion Disbanded
+EMAIL_GROUP_EXPEL_SENDER,
+EMAIL_GROUP_EXPEL_TENT,(%s) kicked you from your Legion (%s). Please join another Legion.
+EMAIL_GROUP_EXPEL_TITLE,Kicked from Legion
+EMAIL_GROUP_MONTH_SENDER,
+EMAIL_GROUP_MONTH_TENT,Your Legion earned a total of %s points during the last Arena season (ranked %s). You contributed %s points. Rewards are distributed among the members of your legion as follows
+EMAIL_GROUP_MONTH_TITLE,Arena Rewards
+EMAIL_GROUP_WEEK_SENDER,
+EMAIL_GROUP_WEEK_TENT,Your legion earned a total of %s in the Arena last week (ranked %s). You contribued %s points. Rewards are distributed among the members of your legion as follows
+EMAIL_GROUP_WEEK_TITLE,Arena Rewards
+EMAIL_HERO_SENDER,
+EMAIL_HERO_TENT,"All you have to do is log-in two consecutive days! That's it! After completing this easy task, you'll immediately unlock Joan!"
+EMAIL_HERO_TITLE,"Log-in 2 consecutive days, get a hero"
+EMAIL_JOIN_GROUP_SENDER,
+EMAIL_JOIN_GROUP_TENT,Join our player group to get a reward of 1500 Gold
+EMAIL_JOIN_GROUP_TITLE,
+EMAIL_MIX_MODE_SENDER,
+EMAIL_MIX_MODE_TENT,"Dear Player, you were offline when the deathmatch battle ended, so your battle rewards have been sent via mail. Based on your performance, you have earned a reward of %s EXP:"
+EMAIL_MIX_MODE_TITLE,Deathmatch Battle Rewards
+EMAIL_OUTTIME_TENT,Your %s has expired
+EMAIL_OUTTIME_TITLE,Item expired
+EMAIL_RANK_SENDER,
+EMAIL_RANK_TENT,"Dear Player, you were offline when the ranked battle ended, so your battle rewards have been sent via mail. Based on your performance, you have earned a reward of %s Rank EXP, %s EXP, %s Gold, %s Rank Score, and %s Battle Stars, as well as the following e"
+EMAIL_RANK_TITLE,Ranked Battle Rewards
+EMAIL_VIDEO_TENT,The rewards you earned for watching the video are below
+EMAIL_VIDEO_TITLE,Video Rewards
+GOLD_NAME,Diamond Title
+STONE_NAME,Gold Title

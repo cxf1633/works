@@ -1,0 +1,19 @@
+$id,map_name,info,mode_name
+800001,Tutorial,0,Tutorial
+800002,Tutorial 2,0,Tutorial 2
+810000,Desert Stronghold,0,Detonation Mode
+810001,Desert Stronghold,0,Team Melee
+810002,Desert Stronghold,0,Battle Royale
+812000,Military Base,0,Battle Royale
+812001,Military Base,0,Newbie Area
+812002,Military Base,0,Team Melee
+813001,Aircraft Carrier - Front,0,Loot Mode
+813002,Aircraft Carrier - Middle,0,Team Battle
+813003,Aircraft Carrier - Rear,0,Battle Royale
+815000,Frozen Wasteland,0,Loot Mode
+815001,Frozen Wasteland,0,Team Melee
+815002,Frozen Wasteland,0,Team Battle
+817001,Ancient Ruins,0,Team Battle
+817002,Ancient Ruins,0,Team Melee
+817003,Ancient Ruins,0,Battle Royale
+910001,Beast of the Sands,排位,Boss Mode

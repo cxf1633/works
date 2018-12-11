@@ -1,0 +1,19 @@
+$list_id,name,intro
+1,团战评分榜," 团战评分榜按照各玩家的团战评分（创建房间和娱乐模式不计）来进行排名。
+    如团战评分一样时，则按照玩家等级来进行排名。"
+2,Level Leaderboards,"The Level Leaderboards are based on the level of each player. If two players are at the same level, the time it took them to reach that level will serve as a tiebreaker"
+3,Individual Melee Leaderboards,The Individual Melee Leaderboards are based on how many times each player has taken 1st place in Battle Royale or the Newbie Area. Tiebreaker is the number of kills each player has in these modes
+4,混战大神榜,"  混战大神榜将按照玩家在混战当中使用对应英雄的水平高低进行排名。
+    对应英雄的混战冠军数≥20场的玩家，才有资格入选。排名按照英雄的冠军率来进行排名
+。"
+5,对战大神榜,"  对战大神将按照玩家使用对应英雄的水平高低进行排行。
+    对应英雄胜场达到20的玩家，才有资格进入大神排行。排名按照英雄评分高低来进行。
+    英雄评分=英雄胜率*10000+英雄胜场。"
+6,天梯榜,排位赛榜单
+11,兵团上周活跃排行,Last Week's Legion Activity Rankings
+12,兵团周活跃排行,Weekly Legion Activity Rankings
+13,兵团赛季活跃排行,Legion Activity Rankings (Season)
+14,兵团战季度积分兵团排名,兵团战季度积分兵团排名
+15,兵团战周积分兵团排名,兵团战周积分兵团排名
+16,兵团战季度积分个人排名,兵团战季度积分个人排名
+17,兵团战周积分个人排名,兵团战周积分个人排名

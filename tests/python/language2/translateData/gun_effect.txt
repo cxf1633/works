@@ -1,0 +1,39 @@
+$id,name
+10011,AK47
+10012,AK47 - Interstellar Trim
+10021,Gatling
+10022,Gatling - Modern Trim
+10031,Remington M870
+10032,M870 - Renegade Trim
+10041,Barret M82A1
+10042,M82A1 - Interstellar Trim
+10051,PSG-1
+10052,PSG - Medic Trim
+10061,M60
+10062,M60-禁军
+10071,MP5
+10072,MP5-维修型
+10081,AA12
+10082,AA12-杀手版
+10091,M249
+10092,M249-死神版
+10101,Silver Echo
+10102,银之回响-牛仔型
+10111,Scorcher
+10112,毁灭之焰-重装型
+10121,电磁弩P-0
+10122,P-1 Electrobow
+20001,TAR-21
+20002,F2000
+20003,M4A1
+20004,ACR
+20005,AUG
+20006,SCAR-S
+20007,RPD
+20008,AWM
+20009,SVD
+20010,M1014
+20011,Striker
+20012,Jackhammer
+30001,机甲空武器
+30002,炮塔空武器

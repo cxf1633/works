@@ -1,0 +1,7 @@
+$id,name
+1,Battle Area
+2,Ranked Area
+3,Deathmatch Area
+4,Tutorial
+5,Team Deathmatch
+6,Boss Mode

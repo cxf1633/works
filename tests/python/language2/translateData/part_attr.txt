@@ -1,0 +1,96 @@
+$id,intro
+771111,Damage +0.52%
+771121,Crit +0.52
+771131,Fire Rate +0.58%
+771141,Penetration +1.1
+771211,Damage +0.69%
+771221,Crit +0.69
+771231,"Crit +0.48, Fire Rate +0.25%"
+771241,Fire Rate +0.77%
+771311,"Penetration +1.2, Damage +0.1%"
+771321,Damage +1%
+771331,"Damage +0.5%, Crit +0.5"
+771341,Crit +1
+772111,Fire Rate +1.1%
+772121,"Fire Rate +0.8%, Damage +0.27%"
+772131,"Penetration +1.8, Damage +0.15%"
+772141,Damage +1.52%
+772151,"Damage +0.8%, Crit +0.1, Item Strength +1"
+772211,Crit +1.52
+772221,"Crit +0.9, HP +3.95"
+772231,Fire Rate +1.69%
+772241,"Fire Rate +1.2%, Damage +0.44%"
+772251,"Penetration +2, Damage +0.59%"
+772311,Damage +2.5%
+772321,"Damage +1.8%, Movement Speed +0.56"
+772331,Crit +2.5
+772341,"Crit +1.5, Fire Rate +1.1%"
+772351,"Crit +1.5, Damage +1%"
+773111,Fire Rate +2.8%
+773121,"Fire Rate +1.5%, Damage +1.2%"
+773131,"Penetration +2.8, Damage +1.2%"
+773141,Armor +1.2
+773151,HP +3.3
+773161,Range +0.5%
+773211,Item Strength +0.8
+773221,Armor +1.6
+773231,HP +4.4
+773241,"HP +3.3, Damage +0.17"
+773251,Range +0.8%
+773261,Item Strength +1
+773311,"Item Strength +0.8, Armor +1.1"
+773321,"Range +0.7%, HP +3.1"
+773331,HP +6.3
+773341,Armor +2.3
+773351,Item Strength +1.5
+773361,Range +1.4%
+774111,Armor +3.6
+774121,"Armor +2.6, Item Strength +0.66"
+774131,HP +9.7
+774141,"HP +7.5, Range +0.5%"
+774151,Item Strength +2.4
+774161,"Item Strength +1.8, Crit +0.38"
+774171,Range +2.2%
+774211,Armor +5.9
+774221,"Armor +4, Item Strength +0.63"
+774231,"Armor +4, HP +5.2"
+774241,HP +16
+774251,"HP +10, Item Strength 1.46"
+774261,Range +3%
+774271,Item Strength +3.9
+774311,"Item Strength +2.6, HP +5.2"
+774321,Movement Speed +0.4
+774431,"Movement Speed +0.2, HP +1.7"
+774441,"Magazine +0.2, HP +2.1"
+774451,"Reload Time -0.03, HP +1.1"
+774461,Movement Speed +0.53
+774471,"Movement Speed +0.4, Crit +0.17"
+775111,"Magazine +0.3, Armor +1"
+775121,"Magazine +0.2, HP +3.2"
+775131,"Reload Time -0.06, Armor +0.8"
+775141,Movement Speed +0.76
+775151,"Movement Speed +0.38, Fire Rate +0.47%"
+775161,"Movement Speed +0.38, Item Strength +0.75"
+775171,"Magazine +0.4, Armor +1.4"
+775181,"Reload Time -0.06, HP +4"
+775211,"Reload Time -0.06, Armor +1.4"
+775221,Movement Speed +1.17
+775231,"Movement Speed +0.7, HP +4.3"
+775241,"Movement Speed +0.55, Item Strength +1.27"
+775251,"Magazine +0.5, HP +6.7"
+775261,"Magazine +0.5, Armor +2.5"
+775271,"Reload Time -0.08, HP +6.7"
+775281,"Reload Time -0.08, Armor +2.5"
+775311,Movement Speed +2
+775321,"Movement Speed +1.5, HP +3.9"
+775331,"Movement Speed +1.5, Armor +1.5"
+775341,"Magazine +0.6, HP +12.4"
+775351,"Movement Speed +1.5, Magazine +0.6"
+775361,"Magazine +0.4, Armor +4.9"
+775371,"Reload Time -0.1, HP +6.1, Armor +2.3"
+775381,"Reload Time -0.1, Movement Speed +1.5"
+780001,Damage +5%
+780101,HP +50
+780201,Damage +5%
+780301,Damage +5%
+780701,Damage +5%

@@ -1,0 +1,186 @@
+$id,name
+1001,Daily Arena Mission Refresh Amount
+1002,Daily Arena Mission Refresh Amount
+1003,Daily Arena Mission Refresh Amount
+1004,Daily Arena Mission Refresh Amount
+1005,Daily Arena Mission Refresh Amount
+1006,Daily Arena Mission Refresh Amount
+1007,Daily Arena Mission Refresh Amount
+1008,Daily Arena Mission Refresh Amount
+1009,Daily Arena Mission Refresh Amount
+1010,Daily Arena Mission Refresh Amount
+1011,Daily Arena Mission Refresh Amount
+1012,Daily Arena Mission Refresh Amount
+1013,Daily Arena Mission Refresh Amount
+1014,Daily Arena Mission Refresh Amount
+1015,Daily Arena Mission Refresh Amount
+2001,Gold
+2002,Gold
+2003,Gold
+2004,Gold
+2005,Gold
+2006,Gold
+2007,Gold
+2008,Gold
+2009,Gold
+2010,Gold
+2011,Gold
+2012,Gold
+2013,Gold
+2014,Gold
+2015,Gold
+2016,Gold
+2017,Gold
+2018,Gold
+2019,Gold
+2020,Gold
+2021,Gold
+2022,Gold
+2023,Gold
+2024,Gold
+2025,Gold
+2026,Gold
+2027,Gold
+2028,Gold
+2029,Gold
+2030,Gold
+2031,Gold
+2032,Gold
+2033,Gold
+2034,Gold
+2035,Gold
+2036,Gold
+2037,Gold
+2038,Gold
+2039,Gold
+2040,Gold
+2041,Gold
+2042,Gold
+2043,Gold
+2044,Gold
+2045,Gold
+2046,Gold
+2047,Gold
+2048,Gold
+2049,Gold
+2050,Gold
+2051,Gold
+2052,Gold
+2053,Gold
+2054,Gold
+2055,Gold
+2056,Gold
+2057,Gold
+2058,Gold
+2059,Gold
+2060,Gold
+2061,Gold
+2062,Gold
+2063,Gold
+2064,Gold
+2065,Gold
+2066,Gold
+2067,Gold
+2068,Gold
+2069,Gold
+2070,Gold
+2071,Gold
+2072,Gold
+2073,Gold
+2074,Gold
+2075,Gold
+2076,Gold
+2077,Gold
+2078,Gold
+2079,Gold
+2080,Gold
+2081,Gold
+2082,Gold
+2083,Gold
+2084,Gold
+2085,Gold
+2086,Gold
+2087,Gold
+2088,Gold
+2089,Gold
+2090,Gold
+2091,Gold
+2092,Gold
+2093,Gold
+2094,Gold
+2095,Gold
+2096,Gold
+2097,Gold
+2098,Gold
+2099,Gold
+2100,Gold
+3001,
+3002,
+3003,
+3004,
+3005,
+3006,
+3007,
+3008,
+3009,
+3010,
+6001,
+6002,
+6003,
+6004,
+6005,
+6006,
+6007,
+6008,
+6009,
+6010,
+6011,
+6012,
+6013,
+6014,
+6015,
+6016,
+6017,
+6018,
+6019,
+6020,
+6021,
+6022,
+6023,
+6024,
+6025,
+6026,
+6027,
+6028,
+6029,
+6030,
+7001,Cost of first time using the Epic Lottery
+7002,Cost of first time using the Epic Lottery
+7003,Cost of first time using the Epic Lottery
+7004,Cost of first time using the Epic Lottery
+7005,Cost of first time using the Epic Lottery
+7006,Cost of first time using the Epic Lottery
+7007,Cost of first time using the Epic Lottery
+7008,Cost of first time using the Epic Lottery
+7009,Cost of first time using the Epic Lottery
+7010,Cost of first time using the Epic Lottery
+7011,Cost of first time using the Epic Lottery
+7012,Cost of first time using the Epic Lottery
+7013,Cost of first time using the Epic Lottery
+7014,Cost of first time using the Epic Lottery
+8001,Component Page 1
+8002,Component Page 2
+8003,Component Page 3
+8004,Component Page 4
+8005,Component Page 5
+8006,Component Page 6
+8007,Component Page 7
+8008,Component Page 8
+8009,Component Page 9
+8010,Component Page 10
+11001,Cost of first Legion expansion
+11002,Cost of first Legion expansion
+11003,Cost of first Legion expansion
+11004,Cost of first Legion expansion
+11005,Cost of first Legion expansion
+11006,Cost of first Legion expansion

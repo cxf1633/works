@@ -1,0 +1,7 @@
+$require_time,condition_intro
+300,Can collect in 5 min
+600,Can collect in 10 min
+900,Can collect in 15 min
+1800,Can collect in 30 min
+3600,Can collect in 1 hour
+7200,Can collect in 2 hours

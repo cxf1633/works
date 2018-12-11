@@ -1,0 +1,24 @@
+$id,step_intro
+201,"First, use the left joystick to move your hero. Go to the indicated area!"
+202,"Next, take a look at the guide and learn how to fight!"
+203,"Looks like you got down shooting, next you'll learn how roll!"
+204,"Now that you can roll, you need to learn how to reload your weapon."
+205,"Great, now you know the basics. Let's move to the next training area"
+206,Here you'll practice throwing grenades.
+207,Congratulations on completing your training
+208,First you need to know how to aim manually!
+209,"Excellent, looks like you've mastered manual aiming. Let's continue…There is a challenge waiting for you just ahead."
+210,Congratulations on completing your training
+211,Tap the roll button and roll to the indicated area
+212,"You've reloaded, now you can continue shooting."
+1901,It seems you have a good grasp on the basics. Let's try a training battle!
+1902,Click here to select a battle type
+1903,"In Beginner Mode, automatic aiming will be activated"
+1904,"Choose ""Newbie Area"" and wait to be matched with opponents"
+1905,Choose a hero and confirm to use this hero in battle
+2001,"Battle Royale Unlocked! In this mode, auto-aim willl be disabled. Let's take another look at the guide"
+2002,Click here to select a battle type
+2003,"Tap ""Battle Royale"""
+2004,Choose a hero and confirm to use this hero in battle
+3101,"Now that you've passed the combat test, its time to move on to advanced training"
+3201,Congratulations on defeating the boss. You've unlocked the following hero: Catherine

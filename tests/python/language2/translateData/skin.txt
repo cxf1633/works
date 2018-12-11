@@ -1,0 +1,21 @@
+$id,name
+310001,Classic
+310002,Interstellar Knight
+310101,Classic
+310102,Modern Armor
+310201,Classic
+310202,Renegade
+310301,Classic
+310302,Ghost
+310401,Classic
+310402,Nurse
+310501,Classic
+310502,Imperial Guard
+310601,Classic
+310701,Classic
+310702,Assassin
+310801,Classic
+310901,Classic
+311001,Classic
+311101,Classic
+500101,

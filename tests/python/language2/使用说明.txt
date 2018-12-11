@@ -1,0 +1,6 @@
+translate.txt 策划给的需要翻译的字段表名
+out_from_sql.py 根据translate.txt 把表从mysql读取到translateData文件夹
+
+oldFiles 就是RefResources\Database 下的，现在使用的表
+newFiles 替换后的表放这里
+replace.py 把translateData文件夹里面已经翻译好的内容，和oldFiles 比较，生成新的文件到newFiles 

@@ -1,0 +1,8 @@
+$group_feats_lv,name
+1,Level 1 Exploit
+2,Level 2 Exploit
+3,Level 3 Exploit
+4,Level 4 Exploit
+5,Level 5 Exploit
+6,Level 6 Exploit
+7,Level 7 Exploit

@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 18,
+    "editor.fontFamily": "微软雅黑",
+    "code-runner.runInTerminal": true,
+    "terminal.integrated.fontFamily":"monospace"
+}

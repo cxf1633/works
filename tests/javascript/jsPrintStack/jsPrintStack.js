@@ -11,9 +11,10 @@ function printStack(){
 
 function func3() {
     console.log('func3');
-    //node.js控制台可以使用这个函数
-    // console.trace();
     printStack();
+    
+    //安装node.js运行时可以直接用console.trace();
+    //console.trace();
 }
 function func2() {
     console.log('func2');

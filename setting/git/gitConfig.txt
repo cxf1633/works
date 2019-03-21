@@ -1,0 +1,18 @@
+[user]
+  name = cxf1633
+  email = cxf1633@qq.com
+[merge]
+	tool = tortoisemerge
+[mergetool "bc4"]
+	cmd = \"C:/Program Files/TortoiseGit/bin/TortoiseGitMerge.exe\"
+[diff]
+	tool = tortoisediff
+[difftool "bc4"]
+	cmd = \"C:/Program Files/TortoiseGit/bin/TortoiseGitMerge.exe\"
+[difftool "tortoisediff"]
+	cmd = TortoiseGitMerge $LOCAL $REMOTE
+[difftool]
+	prompt = false
+[mergetool]
+	prompt = false
+	keepBackup = false

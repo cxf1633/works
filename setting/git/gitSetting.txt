@@ -1,0 +1,30 @@
+-------------设置外部比较工具-----------------------------
+关闭prompt backup
+git config --global difftool.prompt false
+git config --global mergetool.prompt false
+git config --global mergetool.keepBackup false
+TortoiseGitMerge
+tortoisegitmerge为安装tortoisesvn或tortoisegit后自带的比较工具，命令行参数规范为 TortoiseGitMerge BaseFilePath MyFilePath [ TheirFilePath ]
+
+git config --global merge.tool tortoisemerge
+git config --global diff.tool tortoisediff
+git config --global difftool.tortoisediff.cmd "TortoiseGitMerge \$LOCAL \$REMOTE"
+
+# 路径无法自动定位时可添加设置：
+# git config --global mergetool.tortoisemerge.path "C:\Program Files\TortoiseGit\bin\TortoiseGitMerge.exe" 
+# git config --global difftool.tortoisediff.path "C:\Program Files\TortoiseGit\bin\TortoiseGitMerge.exe"
+BeyondCompare
+git config --global diff.tool bc
+git config --global merge.tool bc
+git config --global difftool.bc.path "C:\Program Files\Beyond Compare 4\BComp.exe"
+git config --global mergetool.bc.path "C:\Program Files\Beyond Compare 4\BComp.exe"
+DiffMerge
+git config --global diff.tool diffmerge
+git config --global merge.tool diffmerge
+git config --global difftool.diffmerge.path 'C:\Program Files\SourceGear\Common\DiffMerge\sgdm.exe'
+git config --global mergetool.diffmerge.path 'C:\Program Files\SourceGear\Common\DiffMerge\sgdm.exe'
+
+------------使用方法----------------------------------
+git difftool
+git mergetool
+------------------------------------------------------
